@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="electromechanical">
+<symbol name="electromechanical/transformer_coreless">
+<group>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 -4" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 -8" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 -12" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+8 0 m
+2 0 0 2 8 -2 8 -4 a
+</path>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+8 -4 m
+2 0 0 2 8 -6 8 -8 a
+</path>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+8 -8 m
+2 0 0 2 8 -10 8 -12 a
+</path>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+8 -12 m
+2 0 0 2 8 -14 8 -16 a
+</path>
+<path matrix="0 1 -1 0 -4 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 -4 -12" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 8 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 8 -12" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer">
+<group matrix="1 0 0 1 -16 -16">
+<path matrix="1 0 0 1 12 16" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 12 12" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 12 8" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 12 4" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 12 16" stroke="black">
+8 0 m
+2 0 0 2 8 -2 8 -4 a
+</path>
+<path matrix="1 0 0 1 12 16" stroke="black">
+8 -4 m
+2 0 0 2 8 -6 8 -8 a
+</path>
+<path matrix="1 0 0 1 12 16" stroke="black">
+8 -8 m
+2 0 0 2 8 -10 8 -12 a
+</path>
+<path matrix="1 0 0 1 12 16" stroke="black">
+8 -12 m
+2 0 0 2 8 -14 8 -16 a
+</path>
+<path matrix="0 1 -1 0 12 20" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 12 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 24 20" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 24 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="1 0 0 0.875 0 1" stroke="black" dash="dashed" pen="small">
+16 16 m
+16 0 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer_3windings">
+<group>
+<group>
+<path matrix="1 0 0 1 -4 16" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 12" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 8" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="0 1 -1 0 -4 8" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 -4 20" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="1 0 0 1 -4 0" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 -4" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="1 0 0 1 -4 -8" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="0 1 -1 0 -4 -8" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 1 -1 0 -4 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="-1 0 0 -1 4 -4" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="-1 0 0 -1 4 0" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="-1 0 0 -1 4 4" stroke="black">
+0 0 m
+2 0 0 -2 0 -2 0 -4 a
+</path>
+<path matrix="0 -1 1 0 4 4" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="0 -1 1 0 4 -8" stroke="black" cap="1">
+-4 0 m
+-4 4 l
+-4 4 l
+</path>
+<path matrix="1 0 0 1.14286 0 -2.42857" stroke="black" dash="dashed" pen="small">
+0 10 m
+0 -4 l
+</path>
+</group>
+</group>
+</symbol>
+<symbol name="electromechanical/motor_DC1">
+<group>
+<group>
+<group>
+<path stroke="black" fill="black">
+-2 10 m
+-2 -10 l
+2 -10 l
+2 10 l
+h
+</path>
+<path stroke="black" fill="white">
+8 0 0 8 0 0 e
+</path>
+<path stroke="black" cap="2" join="0">
+0 16 m
+0 10 l
+</path>
+<path matrix="1 0 0 1 0 -26" stroke="black" cap="2" join="0">
+0 16 m
+0 10 l
+</path>
+<text matrix="1 0 0 1 0 -4" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="7.101" depth="1.93" valign="top" size="Large" style="center">\texttt{M}</text>
+</group>
+</group>
+</group>
+</symbol>
+<symbol name="electromechanical/motor_DC2">
+<group>
+<path stroke="black" fill="black">
+-2 10 m
+-2 -10 l
+2 -10 l
+2 10 l
+h
+</path>
+<path stroke="black" fill="white">
+8 0 0 8 0 0 e
+</path>
+<path stroke="black" cap="2" join="0">
+0 16 m
+0 10 l
+</path>
+<path matrix="1 0 0 1 0 -26" stroke="black" cap="2" join="0">
+0 16 m
+0 10 l
+</path>
+<text matrix="1 0 0 1 0 -3" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+<path matrix="1.33333 0 0 1 0 -1" stroke="black" pen="small">
+-3 -3 m
+3 -3 l
+</path>
+<path matrix="1 0 0 1 0 -1" stroke="black" pen="small">
+-4 -4 m
+-2 -4 l
+</path>
+<path matrix="1 0 0 1 3 -1" stroke="black" pen="small">
+-4 -4 m
+-2 -4 l
+</path>
+<path matrix="1 0 0 1 6 -1" stroke="black" pen="small">
+-4 -4 m
+-2 -4 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/motor_AC left">
+<group matrix="1 0 0 1 -32 -16">
+<path matrix="1 0 0 1 32 16" stroke="black" fill="white">
+8 0 0 8 0 0 e
+</path>
+<text matrix="1 0 0 1 32.1 11.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+<path stroke="black">
+24 16 m
+16 16 l
+</path>
+<path stroke="black">
+24 24 m
+24 24 l
+16 24 l
+</path>
+<path stroke="black">
+24 8 m
+16 8 l
+</path>
+<path stroke="black" cap="1">
+24 24 m
+26 22 l
+</path>
+<path matrix="-1 0 0 1 50 -14" stroke="black" cap="1">
+24 24 m
+26 22 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/motor_AC up">
+<group matrix="1 0 0 1 -320 -616">
+<path matrix="0 -1 1 0 320.05 616.05" stroke="black" fill="white">
+8 0 0 8 0 0 e
+</path>
+<text matrix="0 -1 1 0 303.95 611.95" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+<path matrix="0 -1 1 0 304.05 648.05" stroke="black">
+24 16 m
+16 16 l
+</path>
+<path matrix="0 -1 1 0 304.05 648.05" stroke="black">
+24 24 m
+24 24 l
+16 24 l
+</path>
+<path matrix="0 -1 1 0 304.05 648.05" stroke="black">
+24 8 m
+16 8 l
+</path>
+<path matrix="0 -1 1 0 304.05 648.05" stroke="black" cap="1">
+24 24 m
+26 22 l
+</path>
+<path matrix="0 1 1 0 290.05 598.05" stroke="black" cap="1">
+24 24 m
+26 22 l
+</path>
+<path stroke="black">
+312 632 m
+296 632 l
+296 636 l
+296 636 l
+</path>
+<path stroke="black">
+328 632 m
+344 632 l
+344 636 l
+344 636 l
+</path>
+<path stroke="black">
+320 632 m
+320 636 l
+</path>
+</group>
+</symbol>
+</ipestyle>
