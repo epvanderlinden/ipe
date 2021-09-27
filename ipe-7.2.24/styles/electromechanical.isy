@@ -117,7 +117,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="electromechanical/transformer_3windings">
+<symbol name="electromechanical/transformer_2_sec_windings">
 <group>
 <group>
 <path matrix="1 0 0 1 -4 16" stroke="black">
@@ -191,6 +191,232 @@
 0 -4 l
 </path>
 </group>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer_Yyd">
+<group layer="alpha">
+<path matrix="-1 0 0 -1 232 132" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 248 120" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 248 140" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+196 106 m
+196 120 l
+212 120 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+212 112 m
+202 112 l
+202 105 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+190 105 m
+190 128 l
+212 128 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+196 58 m
+196 44 l
+212 44 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+202 59 m
+202 52 l
+212 52 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+212 36 m
+190 36 l
+190 59 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -144 -32" stroke="black">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 -63 -129" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 -118 -6" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -118 -6" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -118 -6" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -95 8" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -95 8" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -95 8" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer_Yy">
+<group layer="alpha">
+<path matrix="-1 0 0 -1 232 100" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 248 100" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -144 -64" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -144 -64" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -144 -64" stroke="black">
+152 76 m
+168 76 l
+</path>
+<path matrix="1 0 0 1 -118 -38" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -118 -38" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -118 -38" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -87 -38" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -87 -38" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -87 -38" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -88 -64" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -86 -64" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -88 -64" stroke="black">
+152 76 m
+168 76 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer_Yd">
+<group layer="alpha" matrix="1 0 0 1 -144 -64">
+<path matrix="-1 0 0 -1 376 164" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 164" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black">
+166 84 m
+152 84 l
+</path>
+<path stroke="black">
+168 92 m
+152 92 l
+</path>
+<path stroke="black">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 89 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 58 0" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black">
+152 76 m
+168 76 l
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer_Dd">
+<group layer="alpha" matrix="1 0 0 1 -144 -64">
+<path matrix="-1 0 0 -1 376 164" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 164" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black">
+166 84 m
+152 84 l
+</path>
+<path stroke="black">
+168 92 m
+152 92 l
+</path>
+<path stroke="black">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 89 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 56 0" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 58 0" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 57 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
 </group>
 </symbol>
 <symbol name="electromechanical/motor_DC1">

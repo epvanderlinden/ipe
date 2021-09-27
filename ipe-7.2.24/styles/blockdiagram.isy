@@ -2,105 +2,267 @@
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="blockdiagram">
 <symbol name="blockdiagram/three_phase_bridge_right">
-<group>
-<path layer="alpha" matrix="1 0 0 1 -288 -448" stroke="black" pen="heavier">
+<group layer="alpha" matrix="1 0 0 1 -88 -48">
+<group matrix="1 0 0 1 32 -16">
+<path matrix="1 0 0 1 -288 -448" stroke="black" pen="heavier">
 384 544 m
 352 512 l
 </path>
-<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 4 24 m
 12 24 l
 </path>
-<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 4 20 m
 12 20 l
 </path>
-<path layer="alpha" matrix="1 0 0 1 64 62" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 64 62" stroke="black" pen="heavier">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path layer="alpha" stroke="black" pen="heavier">
+<path stroke="black" pen="heavier">
 96 80 m
 104 80 l
 </path>
-<path layer="alpha" stroke="black" pen="heavier">
+<path stroke="black" pen="heavier">
 96 88 m
 104 88 l
 </path>
-<path layer="alpha" stroke="black" pen="heavier">
+<path stroke="black" pen="heavier">
 96 72 m
 104 72 l
 </path>
-<path layer="alpha" matrix="1 0 0 1 0 -4" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 0 -4" stroke="black" pen="heavier">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path layer="alpha" matrix="1 0 0 1 0 4" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 0 4" stroke="black" pen="heavier">
 64 68 m
 56 68 l
 </path>
 </group>
+</group>
 </symbol>
 <symbol name="blockdiagram/three_phase_bridge_left">
+<group layer="alpha" matrix="1 0 0 1 -56 -64">
 <group>
-<path layer="alpha" matrix="-1 0 -0 -1 448 608" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 448 608" stroke="black" pen="heavier">
 384 544 m
 352 512 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
 4 24 m
 12 24 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
 4 20 m
 12 20 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 96 98" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 96 98" stroke="black" pen="heavier">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
 96 80 m
 104 80 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
 96 88 m
 104 88 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
 96 72 m
 104 72 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 160 164" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 160 164" stroke="black" pen="heavier">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path layer="alpha" matrix="-1 0 -0 -1 160 156" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 160 156" stroke="black" pen="heavier">
 64 68 m
 56 68 l
 </path>
+</group>
+</group>
+</symbol>
+<symbol name="blockdiagram/rectifier_12p_Yyd">
+<group layer="alpha" matrix="1 0 0 1 -144 -24">
+<group>
+<path matrix="-1 0 0 -1 376 164" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 152" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 172" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 624 648" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 272 138" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="-1 0 0 -1 624 572" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 272 62" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path stroke="black">
+196 106 m
+196 120 l
+240 120 l
+</path>
+<path stroke="black">
+240 112 m
+202 112 l
+202 105 l
+</path>
+<path stroke="black">
+190 105 m
+190 128 l
+240 128 l
+</path>
+<path stroke="black">
+196 58 m
+196 44 l
+240 44 l
+</path>
+<path stroke="black">
+202 59 m
+202 52 l
+240 52 l
+</path>
+<path stroke="black">
+240 36 m
+190 36 l
+190 59 l
+</path>
+<path stroke="black">
+166 84 m
+152 84 l
+</path>
+<path stroke="black">
+168 92 m
+152 92 l
+</path>
+<path stroke="black">
+152 76 m
+168 76 l
+</path>
+<path stroke="black">
+272 36 m
+288 36 l
+288 112 l
+296 112 l
+</path>
+<path stroke="black">
+272 112 m
+288 112 l
+</path>
+<use matrix="1 0 0 1 0 -4" name="mark/disk(sx)" pos="280 132" size="normal" stroke="black"/>
+<use name="mark/disk(sx)" pos="288 112" size="normal" stroke="black"/>
+<text matrix="1 0 0 1 81 -97" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+147 60 m
+147 61 l
+</path>
+<path stroke="black">
+272 52 m
+280 52 l
+280 128 l
+296 128 l
+</path>
+<path stroke="black">
+280 128 m
+272 128 l
+</path>
+</group>
 </group>
 </symbol>
 </ipestyle>
