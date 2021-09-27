@@ -1,36 +1,106 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="blockdiagram">
-<symbol name="blockdiagram/inverter">
+<symbol name="blockdiagram/three_phase_bridge_right">
 <group>
-<group>
-<path matrix="1 0 0 1 -352 -512" stroke="black">
+<path layer="alpha" matrix="1 0 0 1 -288 -448" stroke="black" pen="heavier">
 384 544 m
 352 512 l
 </path>
-<path stroke="black" pen="fat">
+<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 4 24 m
 12 24 l
 </path>
-<path stroke="black" pen="fat">
+<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 0 -2" stroke="black" pen="heavier">
+<path layer="alpha" matrix="1 0 0 1 64 62" stroke="black" pen="heavier">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path stroke="black">
+<path layer="alpha" matrix="1 0 0 1 64 64" stroke="black" pen="heavier">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
+<path layer="alpha" stroke="black" pen="heavier">
+96 80 m
+104 80 l
+</path>
+<path layer="alpha" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path layer="alpha" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path layer="alpha" matrix="1 0 0 1 0 -4" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path layer="alpha" matrix="1 0 0 1 0 4" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
 </group>
+</symbol>
+<symbol name="blockdiagram/three_phase_bridge_left">
+<group>
+<path layer="alpha" matrix="-1 0 -0 -1 448 608" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 96 98" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 96 96" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+96 80 m
+104 80 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 160 160" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 160 164" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path layer="alpha" matrix="-1 0 -0 -1 160 156" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
 </group>
 </symbol>
 </ipestyle>
