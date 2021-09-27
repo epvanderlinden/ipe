@@ -207,6 +207,311 @@ h
 </path>
 </group>
 </symbol>
+<symbol name="blockdiagram/rectifier_6p_Yy">
+<group layer="alpha">
+<group matrix="1 0 0 1 24 -60">
+<group>
+<path matrix="-1 0 0 -1 448 608" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 96 98" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 80 m
+104 80 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path matrix="-1 0 0 -1 160 164" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="-1 0 0 -1 160 156" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
+</group>
+</group>
+<group matrix="1 0 0 1 6 -9">
+<path matrix="-1 0 0 -1 226 109" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 242 109" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -150 -55" stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -150 -55" stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -150 -55" stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+<path matrix="1 0 0 1 -124 -29" stroke="black" pen="heavier">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -124 -29" stroke="black" pen="heavier">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -124 -29" stroke="black" pen="heavier">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -93 -29" stroke="black" pen="heavier">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -93 -29" stroke="black" pen="heavier">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -93 -29" stroke="black" pen="heavier">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -94 -55" stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -92 -55" stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -94 -55" stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+</group>
+</group>
+</symbol>
+<symbol name="blockdiagram/rectifier_6p_Yd">
+<group layer="alpha">
+<group matrix="1 0 0 1 24 -60">
+<group>
+<path matrix="-1 0 0 -1 448 608" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 96 98" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 80 m
+104 80 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path matrix="-1 0 0 -1 160 164" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="-1 0 0 -1 160 156" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
+</group>
+</group>
+<group matrix="1 0 0 1 -144 -64">
+<path matrix="-1 0 0 -1 376 164" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 164" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 89 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 58 0" stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+</group>
+</group>
+</symbol>
+<symbol name="blockdiagram/rectifier_6p_Dd">
+<group layer="alpha">
+<group matrix="1 0 0 1 24 -60">
+<group>
+<path matrix="-1 0 0 -1 448 608" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 96 98" stroke="black" pen="heavier">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 96 96" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 80 m
+104 80 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path matrix="-1 0 0 -1 160 160" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path matrix="-1 0 0 -1 160 164" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="-1 0 0 -1 160 156" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
+</group>
+</group>
+<group matrix="1 0 0 1 2 0">
+<group matrix="1 0 0 1 -144 -64">
+<path matrix="-1 0 0 -1 376 164" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 392 164" stroke="black" pen="heavier">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 89 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 56 0" stroke="black" pen="heavier">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 58 0" stroke="black" pen="heavier">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 56 0" stroke="black" pen="heavier">
+152 76 m
+168 76 l
+</path>
+<text matrix="1 0 0 1 57 -79" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+</group>
+</group>
+</group>
+</symbol>
 <symbol name="blockdiagram/rectifier_12p_Yyd">
 <group layer="alpha" matrix="1 0 0 1 -144 -24">
 <group>
