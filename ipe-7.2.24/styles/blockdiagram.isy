@@ -326,29 +326,29 @@ h
 <use matrix="1 0 0 1 0 -4" name="mark/disk(sx)" pos="280 132" size="normal" stroke="black"/>
 <use name="mark/disk(sx)" pos="288 112" size="normal" stroke="black"/>
 <text matrix="1 0 0 1 81 -97" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
 149 56 m
 147 58 l
 147 60 l
 </path>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
 145 56 m
 147 58 l
 </path>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="small">
+<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
 147 60 m
 147 61 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
 149 56 m
 147 58 l
 147 60 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
 145 56 m
 147 58 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="small">
+<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
 147 60 m
 147 61 l
 </path>
