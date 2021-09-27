@@ -107,6 +107,106 @@ h
 </group>
 </group>
 </symbol>
+<symbol name="blockdiagram/dc_dc_converter">
+<group layer="alpha">
+<path matrix="1 0 0 1 -344 -512" stroke="black" pen="heavier">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+</group>
+</symbol>
+<symbol name="blockdiagram/dc_dc_converter_isolated">
+<group layer="alpha">
+<path stroke="black" pen="heavier">
+39 32 m
+8 1 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+64 68 m
+56 68 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 1 -1" stroke="black" pen="heavier">
+39 32 m
+8 1 l
+</path>
+</group>
+</symbol>
 <symbol name="blockdiagram/rectifier_12p_Yyd">
 <group layer="alpha" matrix="1 0 0 1 -144 -24">
 <group>
