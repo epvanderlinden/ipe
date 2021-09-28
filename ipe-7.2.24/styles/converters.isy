@@ -94,7 +94,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_with_sbrakechopper_igbt_right">
+<symbol name="converters/inverter_3ph_with_brakechopper_igbt_right">
 <group layer="alpha">
 <use matrix="1 0 0 1 -83 -56" name="components/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 -83 -8" name="components/IGBT" pos="64 32"/>
