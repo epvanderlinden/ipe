@@ -94,6 +94,149 @@
 </path>
 </group>
 </symbol>
+<symbol name="converters/inverter_3ph_with_sbrakechopper_igbt_right">
+<group layer="alpha">
+<use matrix="1 0 0 1 -83 -56" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -83 -8" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -51 -8" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -51 -56" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -19 -8" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -19 -56" name="components/IGBT" pos="64 32"/>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+64 72 m
+64 40 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+96 72 m
+96 40 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+128 72 m
+128 40 l
+</path>
+<use matrix="1 0 0 1 -83 -56" name="components/currentSensorRight" pos="144 56"/>
+<use matrix="1 0 0 1 -83 -48" name="components/currentSensorRight" pos="144 56"/>
+<use matrix="1 0 0 1 -83 -64" name="components/currentSensorRight" pos="144 56"/>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+136 64 m
+64 64 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+136 56 m
+96 56 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+136 48 m
+128 48 l
+</path>
+<path matrix="1 0 0 1 -79 -64" stroke="black">
+124 99 m
+124 104 l
+0 104 l
+</path>
+<path matrix="1 0 0 1 -79 -64" stroke="black">
+124 28 m
+124 24 l
+0 24 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+64 21 m
+64 16 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+96 20 m
+96 16 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+96 92 m
+96 96 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+64 91 m
+64 96 l
+</path>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+153 64 m
+156 64 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+153 56 m
+156 56 l
+</path>
+<path matrix="1 0 0 1 -83 -56" stroke="black">
+153 48 m
+156 48 l
+</path>
+<use matrix="1 0 0 1 -115 -56" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -115 -8" name="components/IGBT" pos="64 32"/>
+<path matrix="1 0 0 1 -115 -56" stroke="black">
+64 72 m
+64 40 l
+</path>
+<use matrix="0 1 -1 0 -22 -46" name="components/capacitor" pos="46 49"/>
+<path matrix="1 0 0 1 -115 -56" stroke="black">
+44 63 m
+44 96 l
+</path>
+<path matrix="1 0 0 1 -115 -56" stroke="black">
+44 48 m
+44 16 l
+</path>
+<path matrix="1 0 0 1 -115 -56" stroke="black">
+64 21 m
+64 16 l
+</path>
+<path matrix="1 0 0 1 -115 -56" stroke="black">
+64 91 m
+64 96 l
+</path>
+<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -115 -64" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -159 -88" name="components/resistor" pos="104 32"/>
+<path matrix="1 0 0 1 -159 -88" stroke="black">
+109 88 m
+111 88 l
+</path>
+<path matrix="1.25 0 0 1 -199.5 -664" stroke="black">
+126 664 m
+130 664 l
+</path>
+<use matrix="1 0 0 1 -168 -664" name="mark/disk(sx)" pos="123 664" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -168 -664" stroke="black" cap="1">
+120 664 m
+3 0 0 -3 123 664 126 664 a
+</path>
+<path matrix="1 0 0 1 -162 -661" stroke="black" arrow="normal/tiny">
+120 661 m
+126 661 l
+</path>
+<path matrix="1 0 0 1 -45 0" stroke="black" cap="1">
+-4 0 m
+-4 0 l
+</path>
+<path matrix="1 0 0 1 -159 -88" stroke="black">
+121 88 m
+124 88 l
+124 32 l
+116 32 l
+</path>
+<path matrix="1 0 0 1 -159 -88" stroke="black">
+92 32 m
+88 32 l
+88 48 l
+</path>
+</group>
+</symbol>
 <symbol name="converters/h-bridge_2ph_igbt_right">
 <group layer="alpha" matrix="1 0 0 1 -61 -48">
 <use matrix="1 0 0 1 -16 -8" name="components/IGBT" pos="64 32"/>
