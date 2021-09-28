@@ -420,4 +420,42 @@ h
 <use matrix="1 0 0 1 -18 -4" name="mark/disk(sx)" pos="64 40" size="normal" stroke="black"/>
 </group>
 </symbol>
+<symbol name="blockdiagram/sine_wave_filter_block">
+<group layer="alpha">
+<path matrix="1 0 0 1 8 0" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 80 m
+104 80 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -56 -68" stroke="black">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -56 -60" stroke="black">
+64 68 m
+56 68 l
+</path>
+<path matrix="1 0 0 1 -96 -64" stroke="black">
+96 80 m
+104 80 l
+</path>
+<use matrix="0 1 -1 0 37 -7" name="components/inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 42 -11" name="components/capacitor" pos="27 14"/>
+</group>
+</symbol>
 </ipestyle>
