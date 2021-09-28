@@ -8,50 +8,50 @@
 34 13 l
 </path>
 <use matrix="0.642788 0.766044 -0.766044 0.642788 22.461 -21.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 -2" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 -2" stroke="black" pen="normal">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 80 m
 104 80 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
@@ -64,50 +64,50 @@ h
 34 13 l
 </path>
 <use matrix="0.642788 0.766044 -0.766044 0.642788 6.461 -9.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -8 10" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -8 10" stroke="black" pen="normal">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 -0 -1 392 544" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 392 544" stroke="black" pen="normal">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
 96 80 m
 104 80 l
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="-1 0 -0 -1 104 100" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 104 100" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="-1 0 -0 -1 104 92" stroke="black" pen="heavier">
+<path matrix="-1 0 -0 -1 104 92" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
@@ -115,50 +115,50 @@ h
 </symbol>
 <symbol name="blockdiagram/uncontrolled_3ph_bridge_right">
 <group layer="alpha">
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 -2" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 -2" stroke="black" pen="normal">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 80 m
 104 80 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
@@ -166,50 +166,50 @@ h
 </symbol>
 <symbol name="blockdiagram/uncontrolled_3ph_bridge_left">
 <group layer="alpha">
-<path matrix="1 0 0 1 -8 10" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -8 10" stroke="black" pen="normal">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 0 -1 392 544" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 392 544" stroke="black" pen="normal">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
 96 80 m
 104 80 l
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="-1 0 0 -1 104 100" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 104 100" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="-1 0 0 -1 104 92" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 104 92" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
@@ -217,47 +217,47 @@ h
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter">
 <group layer="alpha">
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
@@ -265,54 +265,159 @@ h
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter_isolated">
 <group layer="alpha">
-<path stroke="black" pen="heavier">
+<path stroke="black" pen="normal">
 39 32 m
 8 1 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
 64 68 m
 56 68 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 1 -1" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 1 -1" stroke="black" pen="normal">
 39 32 m
 8 1 l
 </path>
+</group>
+</symbol>
+<symbol name="blockdiagram/LCL_filter_star">
+<group layer="alpha">
+<use matrix="1 0 0 1 30 -10" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 30 -18" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 30 -26" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -10" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -18" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -26" name="components/inductor" pos="28 47"/>
+<use matrix="0 1 -1 0 33 -55" name="components/capacitor" pos="64 7"/>
+<path matrix="1 0 0 1 -18 -11" stroke="black">
+42 48 m
+64 48 l
+</path>
+<path matrix="1 0 0 1 -18 -11" stroke="black">
+64 40 m
+42 40 l
+</path>
+<path matrix="1 0 0 1 -18 -11" stroke="black">
+42 32 m
+64 32 l
+</path>
+<use matrix="0 1 -1 0 43 -55" name="components/capacitor" pos="64 7"/>
+<use matrix="0 1 -1 0 53 -55" name="components/capacitor" pos="64 7"/>
+<path matrix="1 0 0 1 -24 -32" stroke="black">
+50 33 m
+50 32 l
+70 32 l
+70 33 l
+</path>
+<path matrix="1 0 0 1 -24 -32" stroke="black">
+60 33 m
+60 32 l
+</path>
+<path matrix="1 0 0 1 -24 -32" stroke="black">
+50 49 m
+50 69 l
+</path>
+<path matrix="1 0 0 1 -24 -32" stroke="black">
+60 49 m
+60 61 l
+</path>
+<path matrix="1 0 0 1 -24 -32" stroke="black">
+70 49 m
+70 53 l
+</path>
+<use matrix="1 0 0 1 -24 -32" name="mark/disk(sx)" pos="50 69" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -24 -32" name="mark/disk(sx)" pos="60 61" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -24 -32" name="mark/disk(sx)" pos="70 53" size="normal" stroke="black"/>
+</group>
+</symbol>
+<symbol name="blockdiagram/LCL_filter_delta">
+<group layer="alpha">
+<use matrix="1 0 0 1 30 -3" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 30 -11" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 30 -19" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -3" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -11" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -16 -19" name="components/inductor" pos="28 47"/>
+<use matrix="-0.5 -0.866025 0.866025 -0.5 40.0455 73.8634" name="components/capacitor" pos="57 19"/>
+<use matrix="0.5 -0.866025 0.866025 0.5 -4.95448 54.8634" name="components/capacitor" pos="57 19"/>
+<use matrix="1 0 0 1 -30 -3" name="components/capacitor" pos="64 7"/>
+<path matrix="1 0 0 1 -31 -1" stroke="black">
+63 23 m
+65 26 l
+67 23 l
+</path>
+<path matrix="1 0 0 1 -31 -1" stroke="black">
+55 9 m
+53 5 l
+57 5 l
+</path>
+<path matrix="1 0 0 1 -31 -1" stroke="black">
+75 9 m
+77 5 l
+73 5 l
+</path>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+42 48 m
+64 48 l
+</path>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+64 40 m
+42 40 l
+</path>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+42 32 m
+64 32 l
+</path>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+52 29 m
+52 48 l
+</path>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+40 8 m
+40 32 l
+</path>
+<use matrix="1 0 0 1 -18 -4" name="mark/disk(sx)" pos="52 48" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -18 -4" name="mark/disk(sx)" pos="40 32" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -18 -4" stroke="black">
+64 8 m
+64 40 l
+</path>
+<use matrix="1 0 0 1 -18 -4" name="mark/disk(sx)" pos="64 40" size="normal" stroke="black"/>
 </group>
 </symbol>
 </ipestyle>
