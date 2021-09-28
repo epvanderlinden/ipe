@@ -1,3 +1,3 @@
 cd bin
-start ipe.exe -sheet ..\styles\symbolsettings -sheet ..\styles\blockdiagram -sheet ..\styles\electromechanical -sheet ..\styles\components
+start ipe.exe -sheet ..\styles\symbolsettings -sheet ..\styles\blockdiagram -sheet ..\styles\electromechanical -sheet ..\styles\components -sheet ..\styles\converters
 exit

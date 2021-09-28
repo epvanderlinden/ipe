@@ -315,6 +315,102 @@ h
 </path>
 </group>
 </symbol>
+<symbol name="blockdiagram/dc_dc_converter_hf_right">
+<group layer="alpha">
+<path matrix="1 0 0 1 -344 -512" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -56 -68" stroke="black">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -56 -60" stroke="black">
+64 68 m
+56 68 l
+</path>
+<path matrix="1 0 0 1 -28 0" stroke="black">
+56 8 m
+58 8 l
+58 12 l
+62 12 l
+62 8 l
+64 8 l
+</path>
+</group>
+</symbol>
+<symbol name="blockdiagram/dc_dc_converter_hf_left">
+<group layer="alpha">
+<path matrix="1 0 0 1 -344 -512" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 24 -12" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 8 0" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -56 -64" stroke="black">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -56 -68" stroke="black">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -56 -60" stroke="black">
+64 68 m
+56 68 l
+</path>
+<path matrix="1 0 0 1 -44 12" stroke="black">
+56 8 m
+58 8 l
+58 12 l
+62 12 l
+62 8 l
+64 8 l
+</path>
+</group>
+</symbol>
 <symbol name="blockdiagram/LCL_filter_star">
 <group layer="alpha">
 <use matrix="1 0 0 1 30 -10" name="components/inductor" pos="28 47"/>
