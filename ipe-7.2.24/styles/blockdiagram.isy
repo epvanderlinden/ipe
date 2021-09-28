@@ -513,161 +513,159 @@ h
 </group>
 </symbol>
 <symbol name="blockdiagram/rectifier_12p_Yyd">
-<group layer="alpha" matrix="1 0 0 1 -144 -24">
-<group>
-<path matrix="-1 0 0 -1 376 164" stroke="black">
+<group layer="alpha">
+<path matrix="-1 0 0 -1 232 140" stroke="black" pen="heavier">
 14.4222 0 0 14.4222 196 80 e
 </path>
-<path matrix="-1 0 0 -1 392 152" stroke="black">
+<path matrix="-1 0 0 -1 248 128" stroke="black" pen="heavier">
 14.4222 0 0 14.4222 196 80 e
 </path>
-<path matrix="-1 0 0 -1 392 172" stroke="black">
+<path matrix="-1 0 0 -1 248 148" stroke="black" pen="heavier">
 14.4222 0 0 14.4222 196 80 e
 </path>
-<path matrix="-1 0 0 -1 624 648" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 480 624" stroke="black" pen="heavier">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 112" stroke="black" pen="heavier">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 112" stroke="black" pen="heavier">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 0 -1 272 138" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 114" stroke="black" pen="heavier">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 0 -1 272 136" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 112" stroke="black" pen="heavier">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="-1 0 0 -1 624 572" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 480 548" stroke="black" pen="heavier">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 36" stroke="black" pen="heavier">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 36" stroke="black" pen="heavier">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 0 -1 272 62" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 38" stroke="black" pen="heavier">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 0 -1 272 60" stroke="black" pen="heavier">
+<path matrix="-1 0 0 -1 128 36" stroke="black" pen="heavier">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 196 106 m
 196 120 l
 240 120 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 240 112 m
 202 112 l
 202 105 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 190 105 m
 190 128 l
 240 128 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 196 58 m
 196 44 l
 240 44 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 202 59 m
 202 52 l
 240 52 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 240 36 m
 190 36 l
 190 59 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 166 84 m
 152 84 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 168 92 m
 152 92 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 152 76 m
 168 76 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 272 36 m
 288 36 l
 288 112 l
 296 112 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 272 112 m
 288 112 l
 </path>
-<use matrix="1 0 0 1 0 -4" name="mark/disk(sx)" pos="280 132" size="normal" stroke="black"/>
-<use name="mark/disk(sx)" pos="288 112" size="normal" stroke="black"/>
-<text matrix="1 0 0 1 81 -97" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+<use matrix="1 0 0 1 -144 -28" name="mark/disk(sx)" pos="280 132" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -144 -24" name="mark/disk(sx)" pos="288 112" size="normal" stroke="black"/>
+<text matrix="1 0 0 1 -63 -121" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 -118 2" stroke="black" pen="heavier">
 149 56 m
 147 58 l
 147 60 l
 </path>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -118 2" stroke="black" pen="heavier">
 145 56 m
 147 58 l
 </path>
-<path matrix="1 0 0 1 26 26" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -118 2" stroke="black" pen="heavier">
 147 60 m
 147 61 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -95 16" stroke="black" pen="heavier">
 149 56 m
 147 58 l
 147 60 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -95 16" stroke="black" pen="heavier">
 145 56 m
 147 58 l
 </path>
-<path matrix="1 0 0 1 49 40" stroke="black" pen="heavier">
+<path matrix="1 0 0 1 -95 16" stroke="black" pen="heavier">
 147 60 m
 147 61 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 272 52 m
 280 52 l
 280 128 l
 296 128 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -144 -24" stroke="black" pen="heavier">
 280 128 m
 272 128 l
 </path>
-</group>
 </group>
 </symbol>
 </ipestyle>
