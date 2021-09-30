@@ -560,7 +560,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="blockdiagram/dc_chopper_1ph_right">
+<symbol name="converters/dc_chopper_1ph_right">
 <group layer="alpha" matrix="1 0 0 1 -100 -47">
 <use matrix="1 0 0 1 36 40" name="components/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 36 -8" name="components/IGBT" pos="64 32"/>
@@ -588,6 +588,39 @@
 156 48 l
 </path>
 <path stroke="black">
+84 8 m
+128 8 l
+</path>
+</group>
+</symbol>
+<symbol name="converters/dc_chopper_1ph_left">
+<group layer="alpha" matrix="1 0 0 1 -39 -56">
+<use matrix="1 0 0 1 -24 48" name="components/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -24 0" name="components/IGBT" pos="64 32"/>
+<path matrix="1 0 0 1 -56 0" stroke="black">
+96 72 m
+96 40 l
+</path>
+<use matrix="1 0 0 1 -121 0" name="components/currentSensorRight" pos="144 56"/>
+<path matrix="1 0 0 1 -97 8" stroke="black">
+136 48 m
+128 48 l
+</path>
+<path stroke="black">
+40 91 m
+40 96 l
+56 96 l
+</path>
+<path matrix="1 0 0 1 -56 0" stroke="black">
+96 20 m
+96 16 l
+</path>
+<use matrix="1 0 0 1 -88 8" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -141 8" stroke="black">
+153 48 m
+156 48 l
+</path>
+<path matrix="1 0 0 1 -72 8" stroke="black">
 84 8 m
 128 8 l
 </path>
