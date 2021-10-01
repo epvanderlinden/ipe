@@ -442,7 +442,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/diode_rectifier_3ph_igbt_left">
+<symbol name="converters/passive_rectifier_3ph_diode_left">
 <group layer="alpha">
 <path matrix="1 0 0 1 -97 -57" stroke="black">
 64 72 m
@@ -514,7 +514,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/diode_rectifier_1ph_igbt_left">
+<symbol name="converters/passive_rectifier_1ph_diode_left">
 <group layer="alpha" matrix="1 0 0 1 -117 -69">
 <path matrix="1 0 0 1 4 15" stroke="black">
 96 72 m
