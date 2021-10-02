@@ -1,4 +1,0 @@
-[submodule "ipe-tools"]
-	path = ipe-tools
-	url = https://github.com/otfried/ipe-tools.git
-	branch = master
