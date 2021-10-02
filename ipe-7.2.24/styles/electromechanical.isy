@@ -57,7 +57,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="electromechanical/transformer">
+<symbol name="electromechanical/transformer_1_sec_winding">
 <group matrix="1 0 0 1 -16 -16">
 <path matrix="1 0 0 1 12 16" stroke="black">
 0 0 m
@@ -191,6 +191,70 @@
 0 -4 l
 </path>
 </group>
+</group>
+</symbol>
+<symbol name="electromechanical/transformer">
+<group layer="alpha">
+<path matrix="-1 0 0 -1 225 95" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 241 95" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+152 76 m
+168 76 l
+</path>
+<path matrix="1 0 0 1 -95 -69" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -93 -69" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -95 -69" stroke="black">
+152 76 m
+168 76 l
+</path>
+<path matrix="-1 0 0 -1 225 95" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 241 95" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -151 -69" stroke="black">
+152 76 m
+168 76 l
+</path>
+<path matrix="1 0 0 1 -95 -69" stroke="black">
+168 92 m
+152 92 l
+</path>
+<path matrix="1 0 0 1 -93 -69" stroke="black">
+166 84 m
+152 84 l
+</path>
+<path matrix="1 0 0 1 -95 -69" stroke="black">
+152 76 m
+168 76 l
+</path>
 </group>
 </symbol>
 <symbol name="electromechanical/transformer_Yyd">
@@ -561,6 +625,78 @@ h
 28 12 c
 </path>
 </group>
+</group>
+</symbol>
+<symbol name="electromechanical/generator_AC left">
+<group layer="alpha">
+<path stroke="black" fill="white">
+10 0 0 10 16 10 e
+</path>
+<text matrix="1 0 0 1 16.1 7.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.403" depth="1.23" valign="top" size="large" style="center">\texttt{G}</text>
+<path stroke="black">
+6 10 m
+0 10 l
+</path>
+<path matrix="1 0 0 1 -16 -6" stroke="black">
+24 24 m
+24 24 l
+16 24 l
+</path>
+<path matrix="1 0 0 1 -16 -6" stroke="black">
+24 8 m
+16 8 l
+</path>
+<path stroke="black" cap="1">
+8 18 m
+9 17 l
+</path>
+<path stroke="black" cap="1">
+9 3 m
+8 2 l
+</path>
+<path matrix="1 0 0 1 -8 -7" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+</group>
+</symbol>
+<symbol name="electromechanical/generator_AC up">
+<group layer="alpha">
+<path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
+24 16 m
+16 16 l
+</path>
+<path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
+24 24 m
+24 24 l
+16 24 l
+</path>
+<path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
+24 8 m
+16 8 l
+</path>
+<path matrix="1 0 0 1 -25 -2" stroke="black" cap="1">
+43.05 20.05 m
+42 19 l
+</path>
+<path matrix="1 0 0 1 -25 -2" stroke="black" cap="1">
+28 19 m
+27.05 20.05 l
+</path>
+<path matrix="1 0 0 1 -6 0" stroke="black" fill="white">
+10 0 0 10 16 10 e
+</path>
+<text matrix="1 0 0 1 10.1 7.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.403" depth="1.23" valign="top" size="large" style="center">\texttt{G}</text>
+<path matrix="1 0 0 1 -14 -7" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
 </group>
 </symbol>
 </ipestyle>
