@@ -644,6 +644,34 @@ h
 </path>
 </group>
 </symbol>
+<symbol name="components/IGCT">
+<group layer="alpha" matrix="1 0 0 1 -16 -12">
+<path stroke="black">
+16 13.4333 m
+18 16 l
+18 8 l
+</path>
+<path matrix="1 0 0 1 16 -4" stroke="black">
+-8 16 m
+8 16 l
+</path>
+<path matrix="1 0 0 1 14 -4" stroke="black">
+4 16 m
+-2 20 l
+-2 12 l
+4 16 l
+</path>
+<path stroke="black">
+18 12 m
+21 9 l
+21 4 l
+</path>
+<path matrix="0 -1 1 0 5.5 25.5" stroke="black">
+20 14 m
+20 17 l
+</path>
+</group>
+</symbol>
 <symbol name="components/thyristor">
 <group>
 <path stroke="black">
