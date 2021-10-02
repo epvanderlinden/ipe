@@ -412,7 +412,7 @@ h
 </group>
 </symbol>
 <symbol name="blockdiagram/LCL_filter_star">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -32 -32">
 <use matrix="1 0 0 1 30 -10" name="components/inductor" pos="28 47"/>
 <use matrix="1 0 0 1 30 -18" name="components/inductor" pos="28 47"/>
 <use matrix="1 0 0 1 30 -26" name="components/inductor" pos="28 47"/>
@@ -462,7 +462,7 @@ h
 </group>
 </symbol>
 <symbol name="blockdiagram/LCL_filter_delta">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -32 -32">
 <use matrix="1 0 0 1 30 -3" name="components/inductor" pos="28 47"/>
 <use matrix="1 0 0 1 30 -11" name="components/inductor" pos="28 47"/>
 <use matrix="1 0 0 1 30 -19" name="components/inductor" pos="28 47"/>
@@ -514,6 +514,53 @@ h
 64 40 l
 </path>
 <use matrix="1 0 0 1 -18 -4" name="mark/disk(sx)" pos="64 40" size="normal" stroke="black"/>
+</group>
+</symbol>
+<symbol name="blockdiagram/LC_filter_star">
+<group layer="alpha" matrix="1 0 0 1 -32 -16">
+<use matrix="1 0 0 1 -22 -15" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -22 -23" name="components/inductor" pos="28 47"/>
+<use matrix="1 0 0 1 -22 -31" name="components/inductor" pos="28 47"/>
+<use matrix="0 1 -1 0 27 -60" name="components/capacitor" pos="64 7"/>
+<path stroke="black">
+18 32 m
+48 32 l
+</path>
+<path stroke="black">
+48 24 m
+18 24 l
+</path>
+<path stroke="black">
+18 16 m
+48 16 l
+</path>
+<use matrix="0 1 -1 0 37 -60" name="components/capacitor" pos="64 7"/>
+<use matrix="0 1 -1 0 47 -60" name="components/capacitor" pos="64 7"/>
+<path matrix="1 0 0 1 -30 -37" stroke="black">
+50 33 m
+50 32 l
+70 32 l
+70 33 l
+</path>
+<path matrix="1 0 0 1 -30 -37" stroke="black">
+60 33 m
+60 32 l
+</path>
+<path matrix="1 0 0 1 -30 -37" stroke="black">
+50 49 m
+50 69 l
+</path>
+<path matrix="1 0 0 1 -30 -37" stroke="black">
+60 49 m
+60 61 l
+</path>
+<path matrix="1 0 0 1 -30 -37" stroke="black">
+70 49 m
+70 53 l
+</path>
+<use matrix="1 0 0 1 -30 -37" name="mark/disk(sx)" pos="50 69" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -30 -37" name="mark/disk(sx)" pos="60 61" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -30 -37" name="mark/disk(sx)" pos="70 53" size="normal" stroke="black"/>
 </group>
 </symbol>
 <symbol name="blockdiagram/sine_wave_filter_block">
