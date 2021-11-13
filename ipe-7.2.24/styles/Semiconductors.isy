@@ -217,6 +217,82 @@
     </group>
 </symbol>
 
+<symbol name="Semiconductors/MOSFET" snap="-8 -4 8 -8 8 8 0 0">
+  <group layer="alpha" matrix="1 0 0 1 -278 -641">
+  <path stroke="black" cap="1">
+  278 650 m
+  283 650 l
+  </path>
+  <path matrix="1 0 0 1.2 -107 196.4" stroke="black">
+  390 378 m
+  390 373 l
+  </path>
+  <path matrix="1 0 0 1 -107 272" stroke="black">
+  387 372 m
+  393 372 l
+  </path>
+  <path matrix="1 0 0 1 -107 272" stroke="black" cap="1">
+  390 372 m
+  387 368 l
+  </path>
+  <path matrix="1 0 0 1 -107 272" stroke="black">
+  387 368 m
+  393 368 l
+  </path>
+  <path matrix="1 0 0 1 -107 272" stroke="black" cap="1">
+  393 368 m
+  390 372 l
+  390 372 l
+  </path>
+  <path matrix="1 0 0 1 -107 272" stroke="black" cap="1">
+  390 368 m
+  390 362 l
+  390 362 l
+  </path>
+  <path matrix="1 0 0 1 -105 272" stroke="black">
+  384 362 m
+  384 362 l
+  384 362 l
+  </path>
+  <path stroke="black">
+  283 634 m
+  278 634 l
+  279 634 l
+  </path>
+  <use matrix="-1 0 -0 -1 476 1290" name="arrow/normal(spx)" pos="204 649" size="normal" stroke="black"/>
+  <path stroke="black">
+  275 641 m
+  278 641 l
+  278 629 l
+  </path>
+  <path stroke="black">
+  272 643 m
+  272 639 l
+  </path>
+  <path matrix="1 0 0 1 0 -5" stroke="black">
+  272 643 m
+  272 639 l
+  </path>
+  <path matrix="1 0 0 1 0 5" stroke="black">
+  272 643 m
+  272 639 l
+  </path>
+  <path stroke="black">
+  272 636 m
+  278 636 l
+  </path>
+  <path stroke="black">
+  272 646 m
+  278 646 l
+  278 653 l
+  </path>
+  <path stroke="black">
+  270 648 m
+  270 634 l
+  264 634 l
+  </path>
+  </group>
+</symbol>
 
 <symbol name="Semiconductors/NMOS" snap="-8 -4 8 -8 8 8 0 0">
   <group>

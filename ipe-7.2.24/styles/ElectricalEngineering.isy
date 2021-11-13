@@ -1851,34 +1851,34 @@ h
 </symbol>
 
 <symbol name="Machines/motor_AC left">
-  <group layer="alpha">
+  <group layer="alpha" matrix="1 0 0 1 -16 -10">
   <group>
-  <path stroke="black" fill="white" pen="normal">
+  <path stroke="black" fill="white">
   10 0 0 10 16 10 e
   </path>
   <text matrix="1 0 0 1 16.1 7.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
-  <path stroke="black" pen="normal">
+  <path stroke="black">
   6 10 m
   0 10 l
   </path>
-  <path matrix="1 0 0 1 -16 -6" stroke="black" pen="normal">
+  <path matrix="1 0 0 1 -16 -6" stroke="black">
   24 24 m
   24 24 l
   16 24 l
   </path>
-  <path matrix="1 0 0 1 -16 -6" stroke="black" pen="normal">
+  <path matrix="1 0 0 1 -16 -6" stroke="black">
   24 8 m
   16 8 l
   </path>
-  <path stroke="black" pen="normal" cap="1">
+  <path stroke="black" cap="1">
   8 18 m
   9 17 l
   </path>
-  <path stroke="black" pen="normal" cap="1">
+  <path stroke="black" cap="1">
   9 3 m
   8 2 l
   </path>
-  <path matrix="1 0 0 1 -8 -7" stroke="black" pen="normal">
+  <path matrix="1 0 0 1 -8 -7" stroke="black">
   20 12 m
   22 16
   24 12
@@ -1890,34 +1890,34 @@ h
 </symbol>
 
 <symbol name="Machines/motor_AC up">
-  <group layer="alpha">
+  <group layer="alpha" matrix="1 0 0 1 -10 -10">
   <group>
-  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black" pen="normal">
+  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
   24 16 m
   16 16 l
   </path>
-  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black" pen="normal">
+  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
   24 24 m
   24 24 l
   16 24 l
   </path>
-  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black" pen="normal">
+  <path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
   24 8 m
   16 8 l
   </path>
-  <path matrix="1 0 0 1 -25 -2" stroke="black" pen="normal" cap="1">
+  <path matrix="1 0 0 1 -25 -2" stroke="black" cap="1">
   43.05 20.05 m
   42 19 l
   </path>
-  <path matrix="1 0 0 1 -25 -2" stroke="black" pen="normal" cap="1">
+  <path matrix="1 0 0 1 -25 -2" stroke="black" cap="1">
   28 19 m
   27.05 20.05 l
   </path>
-  <path matrix="1 0 0 1 -6 0" stroke="black" fill="white" pen="normal">
+  <path matrix="1 0 0 1 -6 0" stroke="black" fill="white">
   10 0 0 10 16 10 e
   </path>
   <text matrix="1 0 0 1 10.1 7.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
-  <path matrix="1 0 0 1 -14 -7" stroke="black" pen="normal">
+  <path matrix="1 0 0 1 -14 -7" stroke="black">
   20 12 m
   22 16
   24 12
@@ -1929,7 +1929,7 @@ h
 </symbol>
 
 <symbol name="Machines/generator_AC left">
-  <group layer="alpha">
+  <group layer="alpha" matrix="1 0 0 1 -16 -10">
   <path stroke="black" fill="white">
   10 0 0 10 16 10 e
   </path>
@@ -1966,7 +1966,7 @@ h
 </symbol>
 
 <symbol name="Machines/generator_AC up">
-  <group layer="alpha">
+  <group layer="alpha" matrix="1 0 0 1 -10 -10">
   <path matrix="0 -1 1 0 -5.95 42.05" stroke="black">
   24 16 m
   16 16 l
