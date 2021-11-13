@@ -217,6 +217,134 @@
     </group>
 </symbol>
 
+
+<symbol name="Semiconductors/NMOS" snap="-8 -4 8 -8 8 8 0 0">
+  <group>
+  <path matrix="1 0 0 1 -20 -24" stroke="black" cap="2">
+  12 20 m
+  19 20 l
+  19 28 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black">
+  21 23 m
+  21 25 l
+  </path>
+  <path matrix="1 0 0 1 -20 -25" stroke="black">
+  21 27 m
+  21 29 l
+  </path>
+  <path matrix="1 0 0 1 -20 -23" stroke="black">
+  21 19 m
+  21 21 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black" cap="2" arrow="normal/tiny">
+  28 16 m
+  28 24 l
+  21 24 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black">
+  21 21 m
+  28 21 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black" cap="2">
+  21 27 m
+  28 27 l
+  28 32 l
+  </path>
+  <use matrix="1 0 0 1 -20 -24" name="mark/disk(sx)" pos="28 21" size="normal" stroke="black"/>
+  </group>
+</symbol>
+
+<symbol name="Semiconductors/PMOS" snap="-8 -4 8 -8 8 8 0 0">
+  <group>
+  <path matrix="1 0 0 1 -20 -24" stroke="black" cap="2">
+  12 20 m
+  19 20 l
+  19 28 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black">
+  21 23 m
+  21 25 l
+  </path>
+  <path matrix="1 0 0 1 -20 -25" stroke="black">
+  21 27 m
+  21 29 l
+  </path>
+  <path matrix="1 0 0 1 -20 -23" stroke="black">
+  21 19 m
+  21 21 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black">
+  21 21 m
+  28 21 l
+  </path>
+  <path matrix="1 0 0 1 -20 -24" stroke="black" cap="2">
+  21 27 m
+  28 27 l
+  28 32 l
+  </path>
+  <use matrix="1 0 0 1 -20 -24" name="mark/disk(sx)" pos="28 21" size="normal" stroke="black"/>
+  <path matrix="0.875 0 0 1 1 0" stroke="black" arrow="normal/tiny">
+  0 0 m
+  8 0 l
+  </path>
+  <path stroke="black" cap="2">
+  8 0 m
+  8 -8 l
+  </path>
+  </group>
+</symbol>
+
+<symbol name="Semiconductors/Transistor NPN" snap="-8 0 8 8 8 -8 0 0">
+  <group matrix="1 0 0 1 -24 -24">
+  <path matrix="1 0 0 1 18 16" stroke="black">
+  8 4 m
+  8 12 l
+  </path>
+  <path matrix="1 0 0 1 16 16" stroke="black" cap="1">
+  16 16 m
+  10 10 l
+  </path>
+  <path matrix="1 0 0 1 16 16" stroke="black" cap="1">
+  16 0 m
+  10 6 l
+  </path>
+  <path matrix="1 0 0 1 16 16" stroke="black" cap="1" arrow="normal/tiny">
+  10 6 m
+  14 2 l
+  </path>
+  <path matrix="1 0 0 1 16 24" stroke="black" cap="2">
+  0 0 m
+  10 0 l
+  </path>
+  </group>
+</symbol>
+
+<symbol name="Semiconductors/Transistor PNP" snap="-8 0 8 8 8 -8 0 0">
+  <group matrix="1 0 0 1 -28 -16">
+  <path matrix="1 0 0 -1 22 24" stroke="black">
+  8 4 m
+  8 12 l
+  </path>
+  <path matrix="1 0 0 -1 20 24" stroke="black" cap="1">
+  16 16 m
+  10 10 l
+  </path>
+  <path matrix="1 0 0 -1 20 24" stroke="black">
+  16 0 m
+  10 6 l
+  </path>
+  <path matrix="-1 0 0 1 46 18" stroke="black" cap="1" arrow="normal/tiny">
+  10 6 m
+  14 2 l
+  </path>
+  <path matrix="1 0 0 -1 20 16" stroke="black" cap="2">
+  0 0 m
+  10 0 l
+  </path>
+  </group>
+</symbol>
+
 <symbol name="Semiconductors/thyristor">
     <group>
     <path stroke="black">
