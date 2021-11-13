@@ -412,7 +412,7 @@
   </group>
 </symbol>
 
-<symbol name="Basic/Switch open" snap="-8 0 8 0 0 0">
+<symbol name="Contactors/Switch open" snap="-8 0 8 0 0 0">
   <group matrix="1 0 0 1 -112 -48">
   <use name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
   <use name="mark/fdisk(sfx)" pos="108 48" size="normal" stroke="black" fill="white"/>
@@ -431,7 +431,7 @@
   </group>
 </symbol>
 
-<symbol name="Basic/Switch closed" snap="-8 0 8 0 0 0">
+<symbol name="Contactors/Switch closed" snap="-8 0 8 0 0 0">
   <group matrix="1 0 0 1 -56 -36">
   <path stroke="black" cap="2">
   60 37 m
@@ -448,6 +448,129 @@
   </path>
   <use name="mark/fdisk(sfx)" pos="52 36" size="normal" stroke="black"/>
   <use name="mark/fdisk(sfx)" pos="60 36" size="normal" stroke="black" fill="white"/>
+  </group>
+</symbol>
+
+<symbol name="Contactors/Switch changeover">
+  <group matrix="1 0 0 1 -24 -18">
+  <use matrix="1 0 0 1 -84 -32" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <use matrix="1 0 0 1 -84 -30" name="mark/fdisk(sfx)" pos="108 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -30" stroke="black" cap="2">
+  104 48 m
+  107 48 l
+  </path>
+  <path matrix="1 0 0 1 -84 -32" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  <use matrix="1 0 0 1 -84 -32" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <use matrix="1 0 0 1 -84 -30" name="mark/fdisk(sfx)" pos="108 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -30" stroke="black" cap="2">
+  104 48 m
+  107 48 l
+  </path>
+  <path matrix="1 0 0 1 -84 -32" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  <use matrix="1 0 0 1 -84 -32" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -32" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  <use matrix="1 0 0 1 -84 -32" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -32" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  <path matrix="0.996195 -0.0871557 0.0384341 0.439304 -85.3967 6.18505" stroke="black" cap="1">
+  109 48.5 m
+  115.155 51.5777 l
+  </path>
+  <use matrix="1 0 0 1 -84 -28" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -28" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  <use matrix="1 0 0 1 -84 -28" name="mark/fdisk(sfx)" pos="116 48" size="normal" stroke="black" fill="white"/>
+  <path matrix="1 0 0 1 -84 -28" stroke="black" cap="2">
+  117 48 m
+  120 48 l
+  </path>
+  </group>
+</symbol>
+
+<symbol name="Contactors/Main Circuit Breaker">
+  <group layer="alpha" matrix="1 0 0 1 -252 -608">
+  <use name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 0 8" name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 0 -8" name="Contactors/Switch open" pos="256 608"/>
+  <path stroke="black">
+  248 616 m
+  247 616 l
+  246 616 l
+  246 614 l
+  244 614 l
+  244 616 l
+  240 616 l
+  </path>
+  <path matrix="1 0 0 1 0 -8" stroke="black">
+  248 616 m
+  247 616 l
+  246 616 l
+  246 614 l
+  244 614 l
+  244 616 l
+  240 616 l
+  </path>
+  <path matrix="1 0 0 1 0 -16" stroke="black">
+  248 616 m
+  247 616 l
+  246 616 l
+  246 614 l
+  244 614 l
+  244 616 l
+  240 616 l
+  </path>
+  <path stroke="black" pen="small">
+  247 596 m
+  247 618 l
+  243 618 l
+  243 596 l
+  h
+  </path>
+  <path matrix="1 0 0 1 0 1" stroke="black" pen="small">
+  258 621 m
+  258 625 l
+  254 625 l
+  254 621 l
+  h
+  </path>
+  <path stroke="black" dash="dashed" pen="small">
+  245 618 m
+  245 624 l
+  254 624 l
+  </path>
+  <path stroke="black" dash="dashed" pen="small">
+  256 622 m
+  256 600 l
+  </path>
+  <path stroke="black" pen="small">
+  256 626 m
+  256 628 l
+  </path>
+  <path stroke="black" pen="small">
+  254 628 m
+  258 628 l
+  </path>
+  <path stroke="black" pen="small">
+  256 626 m
+  256 622 l
+  </path>
+  <path stroke="black" pen="small">
+  254 624 m
+  258 624 l
+  </path>
   </group>
 </symbol>
 
