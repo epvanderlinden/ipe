@@ -1,0 +1,3 @@
+[submodule "ipe-7.2.24/ipelets"]
+	path = ipe-7.2.24/ipelets
+	url = https://github.com/guidodehek/ipelets.git
