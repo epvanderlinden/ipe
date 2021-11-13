@@ -344,6 +344,21 @@ h
 </path>
 </group>
 </symbol>
+<symbol name="components/fuse_small">
+<group layer="alpha">
+<path stroke="black">
+-4 2 m
+-4 -2 l
+4 -2 l
+4 2 l
+h
+</path>
+<path stroke="black" cap="2">
+-6 0 m
+6 0 l
+</path>
+</group>
+</symbol>
 <symbol name="components/resistor">
 <group>
 <path matrix="1 0 0 1 0 -14.1" stroke="black">

@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="singleline">
+<symbol name="singleline/controlled_3ph_bridge_right">
+<group layer="alpha">
+<path matrix="1 0 0 1 -24 -16" stroke="black">
+30 8 m
+34 13 l
+</path>
+<use matrix="0.642788 0.766044 -0.766044 0.642788 -1.539 -37.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -18" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="singleline/controlled_3ph_bridge_left">
+<group layer="alpha">
+<path matrix="1 0 0 1 -40 -4" stroke="black">
+30 8 m
+34 13 l
+</path>
+<use matrix="0.642788 0.766044 -0.766044 0.642788 -17.539 -25.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -32 -6" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 368 528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="singleline/uncontrolled_3ph_bridge_right">
+<group layer="alpha">
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -18" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="singleline/uncontrolled_3ph_bridge_left">
+<group layer="alpha">
+<path matrix="1 0 0 1 -32 -6" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="-1 0 0 -1 368 528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="-1 0 0 -1 16 16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="singleline/dc_dc_converter">
+<group layer="alpha">
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 20 m
+12 20 l
+</path>
+</group>
+</symbol>
+<symbol name="singleline/dc_dc_converter_isolated">
+<group layer="alpha">
+<path matrix="1 0 0 1 -24 -16" stroke="black">
+39 32 m
+8 1 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -23 -17" stroke="black">
+39 32 m
+8 1 l
+</path>
+</group>
+</symbol>
+<symbol name="singleline/sine_wave_filter_block">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
+<path matrix="1 0 0 1 8 0" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<use matrix="0 1 -1 0 37 -7" name="components/inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 42 -11" name="components/capacitor" pos="27 14"/>
+</group>
+</symbol>
+<symbol name="singleline/du_dt_filter_block">
+<group layer="alpha" matrix="1 0 0 1 -16 -16">
+<path stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<use matrix="0 1 -1 0 34 -7" name="components/inductor" pos="23 18"/>
+</group>
+</symbol>
+<symbol name="singleline/transformer">
+<group layer="alpha">
+<path matrix="1 0 0 1 -188 -80" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="1 0 0 1 -204 -80" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black">
+22 0 m
+32 0 l
+</path>
+<path matrix="1 0 0 1 -54 0" stroke="black">
+22 0 m
+32 0 l
+</path>
+</group>
+</symbol>
+<symbol name="singleline/transformer_Yyd">
+<group layer="alpha" matrix="1 0 0 1 -48 -32">
+<path matrix="-1 0 0 -1 236 120" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 252 108" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path matrix="-1 0 0 -1 252 128" stroke="black">
+14.4222 0 0 14.4222 196 80 e
+</path>
+<path stroke="black">
+26 40 m
+16 40 l
+</path>
+<text matrix="1 0 0 1 -59 -141" transformations="translations" pos="112 160" stroke="black" type="label" width="6.535" height="6.411" depth="0" valign="baseline" style="math">\Delta</text>
+<path matrix="1 0 0 1 -114 -18" stroke="black">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -114 -18" stroke="black">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -114 -18" stroke="black">
+147 60 m
+147 61 l
+</path>
+<path matrix="1 0 0 1 -91 -4" stroke="black">
+149 56 m
+147 58 l
+147 60 l
+</path>
+<path matrix="1 0 0 1 -91 -4" stroke="black">
+145 56 m
+147 58 l
+</path>
+<path matrix="1 0 0 1 -91 -4" stroke="black">
+147 60 m
+147 61 l
+</path>
+<path stroke="black">
+80 48 m
+70 48 l
+</path>
+<path stroke="black">
+80 28 m
+70 28 l
+</path>
+</group>
+</symbol>
+<symbol name="singleline/motor_AC">
+<group layer="alpha" matrix="1 0 0 1 -16 -16">
+<path matrix="1 0 0 1 0 6" stroke="black" fill="white">
+10 0 0 10 16 10 e
+</path>
+<text matrix="1 0 0 1 16.1 13.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+<path matrix="1 0 0 1 -8 -1" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+</group>
+</symbol>
+<symbol name="singleline/generator_AC">
+<group layer="alpha">
+<path matrix="1 0 0 1 -16 -10" stroke="black" fill="white">
+10 0 0 10 16 10 e
+</path>
+<text matrix="1 0 0 1 0.1 -2.1" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.403" depth="1.23" valign="top" size="large" style="center">\texttt{G}</text>
+<path matrix="1 0 0 1 -24 -17" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+</group>
+</symbol>
+</ipestyle>
