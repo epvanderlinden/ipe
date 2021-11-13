@@ -2,321 +2,321 @@
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="blockdiagram">
 <symbol name="blockdiagram/controlled_3ph_bridge_right">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path stroke="black">
 30 8 m
 34 13 l
 </path>
 <use matrix="0.642788 0.766044 -0.766044 0.642788 22.461 -21.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -344 -512" stroke="black">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 -2" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 -2" stroke="black">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 80 m
 104 80 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -68" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -60" stroke="black">
 64 68 m
 56 68 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/controlled_3ph_bridge_left">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 -16 12" stroke="black">
 30 8 m
 34 13 l
 </path>
 <use matrix="0.642788 0.766044 -0.766044 0.642788 6.461 -9.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -8 10" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -8 10" stroke="black">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 -0 -1 392 544" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 392 544" stroke="black">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 -0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 80 m
 104 80 l
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="-1 0 -0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="-1 0 -0 -1 104 100" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 100" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="-1 0 -0 -1 104 92" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 92" stroke="black">
 64 68 m
 56 68 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/uncontrolled_3ph_bridge_right">
-<group layer="alpha">
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
+<path matrix="1 0 0 1 -344 -512" stroke="black">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 -2" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 -2" stroke="black">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 80 m
 104 80 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -68" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -60" stroke="black">
 64 68 m
 56 68 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/uncontrolled_3ph_bridge_left">
-<group layer="alpha">
-<path matrix="1 0 0 1 -8 10" stroke="black" pen="normal">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
+<path matrix="1 0 0 1 -8 10" stroke="black">
 20 12 m
 22 16
 24 12
 26 8
 28 12 c
 </path>
-<path matrix="-1 0 0 -1 392 544" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 392 544" stroke="black">
 384 544 m
 352 512 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="-1 0 0 -1 40 32" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 40 32" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 80 m
 104 80 l
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="-1 0 0 -1 104 96" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 96" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="-1 0 0 -1 104 100" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 100" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="-1 0 0 -1 104 92" stroke="black" pen="normal">
+<path matrix="-1 0 0 -1 104 92" stroke="black">
 64 68 m
 56 68 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter">
-<group layer="alpha">
-<path matrix="1 0 0 1 -344 -512" stroke="black" pen="normal">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
+<path matrix="1 0 0 1 -344 -512" stroke="black">
 384 544 m
 352 512 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -68" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -60" stroke="black">
 64 68 m
 56 68 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
+<path matrix="1 0 0 1 24 -12" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
+<path matrix="1 0 0 1 24 -12" stroke="black">
 4 20 m
 12 20 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter_isolated">
-<group layer="alpha">
-<path stroke="black" pen="normal">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
+<path stroke="black">
 39 32 m
 8 1 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 8 0" stroke="black" pen="normal">
+<path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
 0 0 l
 32 0 l
 32 32 l
 h
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 88 m
 104 88 l
 </path>
-<path matrix="1 0 0 1 -56 -64" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -64" stroke="black">
 96 72 m
 104 72 l
 </path>
-<path matrix="1 0 0 1 -56 -68" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -68" stroke="black">
 64 92 m
 56 92 l
 56 92 l
 </path>
-<path matrix="1 0 0 1 -56 -60" stroke="black" pen="normal">
+<path matrix="1 0 0 1 -56 -60" stroke="black">
 64 68 m
 56 68 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
+<path matrix="1 0 0 1 24 -12" stroke="black">
 4 24 m
 12 24 l
 </path>
-<path matrix="1 0 0 1 24 -12" stroke="black" pen="normal">
+<path matrix="1 0 0 1 24 -12" stroke="black">
 4 20 m
 12 20 l
 </path>
-<path matrix="1 0 0 1 1 -1" stroke="black" pen="normal">
+<path matrix="1 0 0 1 1 -1" stroke="black">
 39 32 m
 8 1 l
 </path>
 </group>
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter_hf_right">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 -344 -512" stroke="black">
 384 544 m
 352 512 l
@@ -364,7 +364,7 @@ h
 </group>
 </symbol>
 <symbol name="blockdiagram/dc_dc_converter_hf_left">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 -344 -512" stroke="black">
 384 544 m
 352 512 l
@@ -412,7 +412,7 @@ h
 </group>
 </symbol>
 <symbol name="blockdiagram/sine_wave_filter_block">
-<group layer="alpha">
+<group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
 0 0 l
@@ -445,8 +445,8 @@ h
 96 80 m
 104 80 l
 </path>
-<use matrix="0 1 -1 0 37 -7" name="components/inductor" pos="23 18"/>
-<use matrix="0 1 -1 0 42 -11" name="components/capacitor" pos="27 14"/>
+<use matrix="0 1 -1 0 37 -7" name="Basic/Inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 42 -11" name="Basic/Capacitor" pos="27 14"/>
 </group>
 </symbol>
 </ipestyle>

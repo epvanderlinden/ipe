@@ -172,7 +172,7 @@
 <use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -115 -64" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -159 -88" name="components/resistor" pos="104 32"/>
+<use matrix="1 0 0 1 -159 -88" name="Basic/Resistor" pos="104 32"/>
 <path matrix="1 0 0 1 -45 0" stroke="black" cap="1">
 -4 0 m
 -4 0 l
