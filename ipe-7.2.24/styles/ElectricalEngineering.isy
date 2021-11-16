@@ -521,6 +521,17 @@
   </group>
 </symbol>
 
+<symbol name="Contactors/Main Contactor 2-pole">
+  <group layer="alpha" matrix="1 0 0 1 0 4">
+  <use matrix="1 0 0 1 -256 -608" name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 -256 -616" name="Contactors/Switch open" pos="256 608"/>
+  <path stroke="black" dash="dashed" pen="small">
+  0 2 m
+  0 -6 l
+  </path>
+  </group>
+</symbol>
+
 <symbol name="Contactors/Main Contactor 3-pole">
   <group layer="alpha">
   <use matrix="1 0 0 1 -256 -608" name="Contactors/Switch open" pos="256 608"/>
