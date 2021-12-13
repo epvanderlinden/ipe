@@ -2,84 +2,6 @@
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="converters">
 <symbol name="converters/inverter_3ph_igbt_right">
-<group layer="alpha" matrix="1 0 0 1 0 1">
-<use matrix="1 0 0 1 -96 -57" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -96 -9" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -9" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -57" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -9" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -57" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-96 72 m
-96 40 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-128 72 m
-128 40 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-136 64 m
-64 64 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-136 56 m
-96 56 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-136 48 m
-128 48 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-128 91 m
-128 96 l
-36 96 l
-</path>
-<use matrix="0 1 -1 0 -3 -47" name="Basic/Capacitor" pos="46 49"/>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-128 20 m
-128 16 l
-36 16 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-44 63 m
-44 96 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-44 48 m
-44 16 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-64 21 m
-64 16 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-96 20 m
-96 16 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-96 92 m
-96 96 l
-</path>
-<path matrix="1 0 0 1 -96 -57" stroke="black">
-64 91 m
-64 96 l
-</path>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -57" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-</group>
-</symbol>
-<symbol name="converters/inverter_3ph_igbt_right_compact">
 <group layer="alpha">
 <use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
@@ -157,7 +79,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_left_compact">
+<symbol name="converters/inverter_3ph_igbt_left">
 <group layer="alpha">
 <use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
@@ -235,7 +157,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_down_compact">
+<symbol name="converters/inverter_3ph_igbt_down">
 <group layer="alpha">
 <use matrix="1 0 0 1 -96 -48" name="Semiconductors/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 -96 -16" name="Semiconductors/IGBT" pos="64 32"/>
@@ -316,85 +238,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_left">
-<group layer="alpha">
-<use matrix="1 0 0 1 -96 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -96 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-96 72 m
-96 40 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-128 72 m
-128 40 l
-</path>
-<path matrix="1 0 0 1 -104 -72" stroke="black">
-136 64 m
-64 64 l
-</path>
-<path matrix="1 0 0 1 -136 -56" stroke="black">
-136 56 m
-96 56 l
-</path>
-<path matrix="1 0 0 1 -168 -40" stroke="black">
-136 48 m
-128 48 l
-</path>
-<path matrix="-1 0 -0 -1 96 56" stroke="black">
-128 91 m
-128 96 l
-36 96 l
-</path>
-<use matrix="0 1 -1 0 101 -46" name="Basic/Capacitor" pos="46 49"/>
-<path matrix="-1 0 -0 -1 96 56" stroke="black">
-128 20 m
-128 16 l
-36 16 l
-</path>
-<path matrix="1 0 0 1 8 -56" stroke="black">
-44 63 m
-44 96 l
-</path>
-<path matrix="1 0 0 1 8 -56" stroke="black">
-44 48 m
-44 16 l
-</path>
-<path matrix="1 0 0 1 -32 -56" stroke="black">
-64 21 m
-64 16 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-96 20 m
-96 16 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-96 92 m
-96 96 l
-</path>
-<use matrix="1 0 0 1 8 -56" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 8 -56" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -32 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -32 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -32 19" stroke="black">
-64 21 m
-64 16 l
-</path>
-</group>
-</symbol>
-<symbol name="converters/inverter_3ph_with_brakechopper_igbt_right_compact">
+<symbol name="converters/inverter_3ph_with_brakechopper_igbt_right">
 <group layer="alpha" matrix="1 0 0 1 -80 -48">
 <use matrix="1 0 0 1 0 -4" name="Semiconductors/IGBT" pos="64 32"/>
 <use matrix="1 0 0 1 0 36" name="Semiconductors/IGBT" pos="64 32"/>
@@ -491,117 +335,6 @@
 </path>
 <use matrix="1 0 0 1 -32 -16" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -32 -80" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-</group>
-</symbol>
-<symbol name="converters/inverter_3ph_with_brakechopper_igbt_right">
-<group layer="alpha" matrix="1 0 0 1 3 0">
-<use matrix="1 0 0 1 -83 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -83 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -51 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -51 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -19 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -19 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-96 72 m
-96 40 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-128 72 m
-128 40 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-136 64 m
-64 64 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-136 56 m
-96 56 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-136 48 m
-128 48 l
-</path>
-<path matrix="1 0 0 1 -79 -64" stroke="black">
-124 99 m
-124 104 l
-0 104 l
-</path>
-<path matrix="1 0 0 1 -79 -64" stroke="black">
-124 28 m
-124 24 l
-0 24 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-64 21 m
-64 16 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-96 20 m
-96 16 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-96 92 m
-96 96 l
-</path>
-<path matrix="1 0 0 1 -83 -56" stroke="black">
-64 91 m
-64 96 l
-</path>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -115 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -115 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -115 -56" stroke="black">
-64 72 m
-64 40 l
-</path>
-<use matrix="0 1 -1 0 -22 -46" name="Basic/Capacitor" pos="46 49"/>
-<path matrix="1 0 0 1 -115 -56" stroke="black">
-44 63 m
-44 96 l
-</path>
-<path matrix="1 0 0 1 -115 -56" stroke="black">
-44 48 m
-44 16 l
-</path>
-<path matrix="1 0 0 1 -115 -56" stroke="black">
-64 21 m
-64 16 l
-</path>
-<path matrix="1 0 0 1 -115 -56" stroke="black">
-64 91 m
-64 96 l
-</path>
-<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -115 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -115 -64" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -159 -88" name="Basic/Resistor" pos="104 32"/>
-<path matrix="1 0 0 1 -45 0" stroke="black" cap="1">
--4 0 m
--4 0 l
-</path>
-<path stroke="black">
--52 0 m
--35 0 l
--35 -56 l
--43 -56 l
-</path>
-<path matrix="1 0 0 1 -159 -88" stroke="black">
-92 32 m
-88 32 l
-88 48 l
-</path>
 </group>
 </symbol>
 <symbol name="converters/inverter_3ph_igbt_3level_right">
@@ -790,56 +523,56 @@
 </group>
 </symbol>
 <symbol name="converters/h-bridge_2ph_igbt_left">
-<group layer="alpha" matrix="1 0 0 1 -91 -53">
-<use matrix="1 0 0 1 -6 -3" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -6 45" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 26 45" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 26 -3" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -6 -3" stroke="black">
-64 72 m
-64 40 l
+<group layer="alpha">
+<use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<path stroke="black">
+-32 12 m
+-32 -12 l
 </path>
-<path matrix="1 0 0 1 -6 -3" stroke="black">
-96 72 m
-96 40 l
+<path stroke="black">
+0 12 m
+0 -12 l
 </path>
-<path matrix="1 0 0 1 -46 -11" stroke="black">
+<path matrix="1 0 0 1 -136 -64" stroke="black">
 136 56 m
 96 56 l
 </path>
-<path matrix="1 0 0 1 -78 13" stroke="black">
+<path matrix="1 0 0 1 -168 -40" stroke="black">
 136 48 m
 128 48 l
 </path>
-<use matrix="0 1 -1 0 159 7" name="Basic/Capacitor" pos="46 49"/>
-<path matrix="1 0 0 1 66 -3" stroke="black">
-44 63 m
-44 96 l
+<use matrix="0 1 -1 0 69 -46" name="Basic/Capacitor" pos="46 49"/>
+<path stroke="black">
+20 7 m
+20 31 l
 </path>
-<path matrix="1 0 0 1 66 -3" stroke="black">
+<path matrix="1 0 0 1 -24 -48" stroke="black">
 44 48 m
 44 16 l
 </path>
-<path matrix="1 0 0 1 26 -3" stroke="black">
+<path matrix="1 0 0 1 -64 -48" stroke="black">
 64 21 m
 64 16 l
 </path>
-<path matrix="1 0 0 1 26 -3" stroke="black">
+<path matrix="1 0 0 1 -64 -64" stroke="black">
 64 91 m
 64 96 l
 </path>
-<use matrix="1 0 0 1 66 -3" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 66 -3" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 26 -3" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 26 -3" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -6 -3" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -6 -11" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<path matrix="-1 0 -0 -1 138 101" stroke="black">
+<use matrix="1 0 0 1 -24 -64" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -24 -48" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -64 -48" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -64 -64" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -64" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
+<path matrix="-1 0 0 -1 48 40" stroke="black">
 20 8 m
 80 8 l
 80 12 l
 </path>
-<path matrix="-1 0 -0 -1 138 101" stroke="black">
+<path matrix="-1 0 0 -1 48 56" stroke="black">
 20 88 m
 80 88 l
 80 84 l
@@ -847,316 +580,198 @@
 </group>
 </symbol>
 <symbol name="converters/h-bridge_2ph_igbt_right">
-<group layer="alpha">
-<use matrix="1 0 0 1 -77 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -77 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -45 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -45 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
-64 72 m
-64 40 l
+<group layer="alpha" matrix="1 0 0 1 32 0">
+<use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<path stroke="black">
+-32 12 m
+-32 -12 l
 </path>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
-96 72 m
-96 40 l
+<path stroke="black">
+0 12 m
+0 -12 l
 </path>
-<path matrix="1 0 0 1 -109 -48" stroke="black">
+<path matrix="1 0 0 1 -128 -48" stroke="black">
 136 56 m
 96 56 l
 </path>
-<path matrix="1 0 0 1 -109 -56" stroke="black">
+<path matrix="1 0 0 1 -128 -56" stroke="black">
 136 48 m
 128 48 l
 </path>
-<use matrix="0 1 -1 0 16 -46" name="Basic/Capacitor" pos="46 49"/>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
-44 63 m
-44 96 l
+<use matrix="0 1 -1 0 -3 -46" name="Basic/Capacitor" pos="46 49"/>
+<path matrix="1 0 0 1 -72 0" stroke="black">
+20 7 m
+20 31 l
 </path>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
+<path matrix="1 0 0 1 -96 -48" stroke="black">
 44 48 m
 44 16 l
 </path>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
+<path matrix="1 0 0 1 -64 -48" stroke="black">
 64 21 m
 64 16 l
 </path>
-<path matrix="1 0 0 1 -77 -56" stroke="black">
+<path matrix="1 0 0 1 -64 -64" stroke="black">
 64 91 m
 64 96 l
 </path>
-<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -77 -64" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -61 -48" stroke="black">
+<use matrix="1 0 0 1 -96 -64" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -48" name="mark/disk(sx)" pos="44 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -48" name="mark/disk(sx)" pos="64 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -64" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -64" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -80 -40" stroke="black">
 20 8 m
 80 8 l
 80 12 l
 </path>
-<path matrix="1 0 0 1 -61 -48" stroke="black">
+<path matrix="1 0 0 1 -80 -56" stroke="black">
 20 88 m
 80 88 l
 80 84 l
 </path>
 </group>
 </symbol>
-<symbol name="converters/active_front_end_3ph_igbt_left">
-<group layer="alpha">
-<use matrix="1 0 0 1 -96 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -96 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -169 -56" stroke="black">
-136 48 m
-128 48 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-96 20 m
-96 16 l
-</path>
-<path matrix="1 0 0 1 -96 -56" stroke="black">
-96 92 m
-96 96 l
-</path>
-<use matrix="1 0 0 1 -12 -136" name="mark/disk(sx)" pos="44 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -32 -56" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -160 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -64 -57" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -32 -56" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -105 -56" stroke="black">
-136 64 m
-64 64 l
-</path>
-<use matrix="1 0 0 1 -32 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -137 -56" stroke="black">
-136 56 m
-96 56 l
-</path>
-<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -120 -106" stroke="black">
-88 142 m
-88 146 l
-172 146 l
-</path>
-<path matrix="1 0 0 1 -120 -106" stroke="black">
-88 70 m
-88 66 l
-172 66 l
-</path>
-<path matrix="1 0 0 1 -120 -106" stroke="black">
-152 142 m
-152 146 l
-</path>
-<path matrix="1 0 0 1 -120 -106" stroke="black">
-152 70 m
-152 66 l
-</path>
-</group>
-</symbol>
-<symbol name="converters/active_front_end_1ph_igbt_left">
-<group layer="alpha" matrix="1 0 0 1 0 1">
-<use matrix="1 0 0 1 -83 -57" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -83 -9" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -51 -9" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -51 -57" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -83 -57" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -156 -57" stroke="black">
-136 48 m
-128 48 l
-</path>
-<path matrix="1 0 0 1 -83 -57" stroke="black">
-96 20 m
-96 16 l
-</path>
-<path matrix="1 0 0 1 -83 -57" stroke="black">
-96 92 m
-96 96 l
-</path>
-<use matrix="1 0 0 1 -83 -57" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -83 -57" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -147 -57" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -51 -58" stroke="black">
-64 72 m
-64 40 l
-</path>
-<path matrix="1 0 0 1 -124 -49" stroke="black">
-136 56 m
-96 56 l
-</path>
-<use matrix="1 0 0 1 -83 -49" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -67 -129" stroke="black">
-48 164 m
-48 168 l
-100 168 l
-</path>
-<path matrix="1 0 0 1 -67 -129" stroke="black">
-48 92 m
-48 88 l
-100 88 l
-</path>
-</group>
-</symbol>
 <symbol name="converters/passive_rectifier_3ph_diode_left">
-<group layer="alpha" matrix="1 0 0 1 1 1">
-<path matrix="1 0 0 1 -97 -57" stroke="black">
+<group layer="alpha">
+<path matrix="1 0 0 1 -96 -56" stroke="black">
 64 72 m
 64 40 l
 </path>
-<path matrix="1 0 0 1 -97 -57" stroke="black">
+<path matrix="1 0 0 1 -96 -56" stroke="black">
 96 72 m
 96 40 l
 </path>
-<path matrix="1 0 0 1 -97 -57" stroke="black">
+<path matrix="1 0 0 1 -96 -56" stroke="black">
 128 72 m
 128 40 l
 </path>
-<use matrix="1 0 0 1 -97 -57" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -97 -57" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -97 -57" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -97 -57" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -97 -57" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 40 -162" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 72 -162" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 72 -208" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 40 -208" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 104 -208" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 104 -162" name="Semiconductors/diode" pos="185 73"/>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<use matrix="1 0 0 1 -96 -48" name="mark/disk(sx)" pos="96 16" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -64" name="mark/disk(sx)" pos="96 96" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="96 56" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -96 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<use matrix="0 1 -1 0 41 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -203" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 41 -203" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 105 -203" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 105 -165" name="Semiconductors/diode" pos="185 73"/>
+<path matrix="1 0 0 1 -213 -42" stroke="black">
 213 10 m
 213 20 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -58" stroke="black">
 181 80 m
 181 90 l
 256 90 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -42" stroke="black">
 181 20 m
 181 10 l
 256 10 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
-181 20 m
-181 10 l
-256 10 l
-</path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -50" stroke="black">
 181 58 m
 164 58 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -50" stroke="black">
 213 50 m
 164 50 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -50" stroke="black">
 245 42 m
 164 42 l
 </path>
-<use matrix="1 0 0 1 -214 -51" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -214 -51" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<use matrix="1 0 0 1 -213 -58" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -213 -42" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -213 -58" stroke="black">
 213 80 m
 213 90 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -58" stroke="black">
 245 80 m
 245 90 l
 </path>
-<path matrix="1 0 0 1 -214 -51" stroke="black">
+<path matrix="1 0 0 1 -213 -42" stroke="black">
 245 10 m
 245 20 l
 </path>
 </group>
 </symbol>
 <symbol name="converters/passive_rectifier_1ph_diode_left">
-<group layer="alpha" matrix="1 0 0 1 -113 -71">
-<path matrix="1 0 0 1 4 15" stroke="black">
+<group layer="alpha">
+<path matrix="1 0 0 1 -109 -56" stroke="black">
 96 72 m
 96 40 l
 </path>
-<path matrix="1 0 0 1 4 15" stroke="black">
+<path matrix="1 0 0 1 -109 -56" stroke="black">
 128 72 m
 128 40 l
 </path>
-<use matrix="1 0 0 1 36 15" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 4 15" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 173 -90" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 173 -136" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 205 -136" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 205 -90" name="Semiconductors/diode" pos="185 73"/>
-<path stroke="black">
+<use matrix="1 0 0 1 -77 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -109 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<use matrix="0 1 -1 0 60 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 60 -203" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 92 -203" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 92 -165" name="Semiconductors/diode" pos="185 73"/>
+<path matrix="1 0 0 1 -113 -79" stroke="black">
 100 101 m
 100 111 l
 143 111 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -113 -63" stroke="black">
 100 41 m
 100 31 l
 143 31 l
 </path>
-<path matrix="1 0 0 1 -81 21" stroke="black">
+<path matrix="1 0 0 1 -194 -50" stroke="black">
 181 58 m
 164 58 l
 </path>
-<path matrix="1 0 0 1 -81 13" stroke="black">
+<path matrix="1 0 0 1 -194 -58" stroke="black">
 213 50 m
 164 50 l
 </path>
-<use matrix="1 0 0 1 -113 21" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
-<use matrix="1 0 0 1 -113 21" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
-<path matrix="1 0 0 1 -113 21" stroke="black">
+<use matrix="1 0 0 1 -226 -58" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
+<use matrix="1 0 0 1 -226 -42" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -226 -58" stroke="black">
 245 80 m
 245 90 l
 </path>
-<path matrix="1 0 0 1 -113 21" stroke="black">
+<path matrix="1 0 0 1 -226 -42" stroke="black">
 245 10 m
 245 20 l
 </path>
 </group>
 </symbol>
 <symbol name="converters/dc_chopper_1ph_right">
-<group layer="alpha" matrix="1 0 0 1 0 -1">
-<use matrix="1 0 0 1 -64 -7" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -55" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -96 -55" stroke="black">
+<group layer="alpha">
+<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<path matrix="1 0 0 1 -96 -56" stroke="black">
 96 72 m
 96 40 l
 </path>
-<path matrix="1 0 0 1 -128 -47" stroke="black">
+<path matrix="1 0 0 1 -128 -48" stroke="black">
 136 48 m
 128 48 l
 </path>
-<path matrix="1 0 0 1 -100 -47" stroke="black">
+<path matrix="1 0 0 1 -100 -56" stroke="black">
 100 83 m
 100 88 l
 84 88 l
 </path>
-<path matrix="1 0 0 1 -96 -55" stroke="black">
+<path matrix="1 0 0 1 -96 -48" stroke="black">
 96 20 m
 96 16 l
 </path>
-<use matrix="1 0 0 1 -128 -47" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<path stroke="black">
+<use matrix="1 0 0 1 -128 -48" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 0 7" stroke="black">
 -16 -39 m
 8 -39 l
 </path>
@@ -1164,32 +779,30 @@
 </symbol>
 <symbol name="converters/dc_chopper_1ph_left">
 <group layer="alpha">
-<group matrix="1 0 0 1 -1 0">
-<use matrix="1 0 0 1 -63 -8" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -63 -56" name="Semiconductors/IGBT" pos="64 32"/>
-<path matrix="1 0 0 1 -95 -56" stroke="black">
+<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<path matrix="1 0 0 1 -96 -56" stroke="black">
 96 72 m
 96 40 l
 </path>
-<path matrix="1 0 0 1 -136 -48" stroke="black">
+<path matrix="1 0 0 1 -137 -48" stroke="black">
 136 48 m
 128 48 l
 </path>
-<path matrix="1 0 0 1 -39 -56" stroke="black">
+<path matrix="1 0 0 1 -40 -64" stroke="black">
 40 91 m
 40 96 l
 56 96 l
 </path>
-<path matrix="1 0 0 1 -95 -56" stroke="black">
+<path matrix="1 0 0 1 -96 -48" stroke="black">
 96 20 m
 96 16 l
 </path>
-<use matrix="1 0 0 1 -127 -48" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<path stroke="black">
+<use matrix="1 0 0 1 -128 -48" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -1 8" stroke="black">
 -8 -40 m
 17 -40 l
 </path>
-</group>
 </group>
 </symbol>
 </ipestyle>
