@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="EmptyGraphs">
-<symbol name="EmptyGraphs/Hexagon">
+<symbol name="EmptyGraphs/VectorHexagon">
 <group layer="alpha">
 <path stroke="black" arrow="normal/normal">
 0 0 m
