@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="EmptyGraphs">
+<symbol name="EmptyGraphs/Hexagon">
+<group layer="alpha">
+<path stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path matrix="0.5 0.866025 -0.866025 0.5 -0 0.287187" stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path matrix="-0.5 0.866025 -0.866025 -0.5 -0.00001119 0.287181" stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path matrix="-1 -0.0000002 0.0000002 -1 -0.00002238 -0.00001254" stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path matrix="-0.5 -0.866026 0.866026 -0.5 -0.00002792 -0.287203" stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path matrix="0.500001 -0.866026 0.866026 0.500001 -0.00004444 -0.287213" stroke="black" arrow="normal/normal">
+0 0 m
+64 0 l
+</path>
+<path stroke="black" dash="dashed">
+-32 56 m
+32 56 l
+64 0 l
+32 -56 l
+-32 -56 l
+-64 0 l
+-32 56 l
+</path>
+<text transformations="translations" pos="68 0" stroke="black" type="label" width="14.585" height="6.147" depth="0.04" valign="center">100</text>
+<text matrix="1 0 0 1 -36 60" transformations="translations" pos="68 0" stroke="black" type="label" width="16.648" height="6.147" depth="0.04" valign="center">110
+</text>
+<text matrix="1 0 0 1 -100 60" transformations="translations" pos="68 0" stroke="black" type="label" width="16.648" height="6.147" depth="0.04" halign="right" valign="center">010
+</text>
+<text matrix="1 0 0 1 -36 -60" transformations="translations" pos="68 0" stroke="black" type="label" width="16.648" height="6.147" depth="0.04" valign="center">101
+</text>
+<text matrix="1 0 0 1 -100 -60" transformations="translations" pos="68 0" stroke="black" type="label" width="16.648" height="6.147" depth="0.04" halign="right" valign="center">001
+</text>
+<text matrix="1 0 0 1 -136 0" transformations="translations" pos="68 0" stroke="black" type="label" width="16.648" height="6.147" depth="0.04" halign="right" valign="center">011
+</text>
+</group>
+</symbol>
+<symbol name="EmptyGraphs/TorqueCurveASM">
+<group layer="alpha" matrix="1 0 0 1 -288 -448">
+<path stroke="black" arrow="normal/normal">
+128 384 m
+448 384 l
+</path>
+<path stroke="black" arrow="normal/normal">
+128 384 m
+128 544 l
+</path>
+<group>
+<path stroke="black" pen="heavier">
+128 512 m
+240 512 l
+</path>
+<path stroke="black" pen="heavier">
+240 512 m
+272 480
+320 464 c
+</path>
+<path stroke="black" pen="heavier">
+320 464 m
+352 432
+432 416 c
+</path>
+</group>
+<path stroke="black" dash="dashed long" pen="heavier">
+128 384 m
+240 496 l
+432 496 l
+</path>
+<path stroke="black" dash="dashed" pen="heavier">
+128 480 m
+320 480 l
+</path>
+<path stroke="black" dash="dash dotted" pen="heavier">
+320 480 m
+352 464
+432 448 c
+</path>
+<path stroke="black" dash="dash dotted" pen="heavier">
+128 432 m
+240 432 l
+240 432 l
+</path>
+<path stroke="black" dash="dash dotted" pen="heavier">
+240 432 m
+272 416
+432 400 c
+</path>
+<text matrix="1 0 0 1 0 -12" transformations="translations" pos="384 512" stroke="black" type="label" width="9.53" height="6.416" depth="1.55" valign="baseline" style="math">V_{s}</text>
+<text matrix="1 0 0 1 0 -52" transformations="translations" pos="384 512" stroke="black" type="label" width="8.254" height="6.416" depth="1.55" valign="baseline" style="math">I_{r}</text>
+<text matrix="1 0 0 1 -76 -92" transformations="translations" pos="384 512" stroke="black" type="label" width="11.184" height="6.416" depth="1.55" valign="baseline" style="math">I_{m}</text>
+<text matrix="1 0 0 1 -192 8" transformations="translations" pos="384 512" stroke="black" type="label" width="16.652" height="6.416" depth="1.55" valign="baseline" style="math">T_{em}</text>
+<path stroke="black" dash="dotted">
+240 512 m
+240 384 l
+</path>
+<text matrix="1 0 0 1 -264 -140" transformations="translations" pos="384 512" stroke="black" type="label" width="4.862" height="6.147" depth="0.04" valign="baseline" style="math">0</text>
+<text matrix="1 0 0 1 -144 -140" transformations="translations" pos="384 512" stroke="black" type="label" width="12.154" height="6.147" depth="0.07" halign="center" valign="baseline" style="math">1.0</text>
+<text matrix="1 0 0 1 -32 -140" transformations="translations" pos="384 512" stroke="black" type="label" width="12.154" height="6.147" depth="0.07" halign="center" valign="baseline" style="math">2.0</text>
+<text matrix="1 0 0 1 48 -140" transformations="translations" pos="384 512" stroke="black" type="label" width="27.515" height="8.005" depth="5.66" halign="center" valign="baseline" style="math">\frac{\omega_{r}}{\omega_{r,rated}}</text>
+<text matrix="1 0 0 1 -268 -4" transformations="translations" pos="384 512" stroke="black" type="label" halign="center" valign="baseline" style="math">1.0</text>
+</group>
+</symbol>
+</ipestyle>

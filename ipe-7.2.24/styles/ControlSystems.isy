@@ -32,7 +32,7 @@ h
 <path stroke="black">
 12 0 0 12 0 0 e
 </path>
-<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="12.988" height="11.427" depth="0" halign="center" valign="center" size="Huge">+</text>
+<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="10.587" height="11.078" depth="0" halign="center" valign="center" size="LARGE" style="math">\Sigma</text>
 <text matrix="1 0 0 1 -48 -8" transformations="translations" pos="32 16" stroke="black" type="label" width="7.517" height="6.614" depth="0" halign="center" valign="center" size="Large">+</text>
 <text matrix="1 0 0 1 -40 -32" transformations="translations" pos="32 16" stroke="black" type="label" width="5.179" height="3.73" depth="0" halign="center" valign="center" size="Large">-</text>
 </group>
@@ -42,7 +42,7 @@ h
 <path stroke="black">
 12 0 0 12 0 0 e
 </path>
-<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="12.988" height="11.427" depth="0" halign="center" valign="center" size="Huge">+</text>
+<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="10.587" height="11.078" depth="0" halign="center" valign="center" size="LARGE" style="math">\Sigma</text>
 <text matrix="1 0 0 1 -48 -8" transformations="translations" pos="32 16" stroke="black" type="label" width="7.517" height="6.614" depth="0" halign="center" valign="center" size="Large">+</text>
 <text matrix="1 0 0 1 -24 4" transformations="translations" pos="32 16" stroke="black" type="label" width="10.487" height="6.614" depth="0" halign="center" valign="center" size="Large">+
 </text>
