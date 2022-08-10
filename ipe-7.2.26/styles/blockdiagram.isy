@@ -1,6 +1,58 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="blockdiagram">
+<symbol name="blockdiagram/controlled_1ph_bridge_right">
+<group layer="alpha">
+<path matrix="1 0 0 1 -24 -16" stroke="black">
+30 8 m
+34 13 l
+</path>
+<use matrix="0.642788 0.766044 -0.766044 0.642788 -1.539 -37.1678" name="arrow/pointed(spx)" pos="35 13" size="normal" stroke="black"/>
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -18" stroke="black">
+20 12 m
+22 16
+24 12
+26 8
+28 12 c
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 -80 -80" stroke="black">
+96 88 m
+104 88 l
+</path>
+<path matrix="1 0 0 1 -80 -80" stroke="black">
+96 72 m
+104 72 l
+</path>
+<path matrix="1 0 0 1 -80 -84" stroke="black">
+64 92 m
+56 92 l
+56 92 l
+</path>
+<path matrix="1 0 0 1 -80 -76" stroke="black">
+64 68 m
+56 68 l
+</path>
+</group>
+</symbol>
 <symbol name="blockdiagram/controlled_3ph_bridge_right">
 <group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path stroke="black">

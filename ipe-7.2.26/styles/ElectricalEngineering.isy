@@ -201,6 +201,27 @@
   </group>
 </symbol>
 
+<symbol name="Basic/Capacitor_small" snap="-16 0 16 0 0 0">
+  <group layer="alpha">
+  <path stroke="black" cap="2">
+  -5 0 m
+  -0.999981 0 l
+  </path>
+  <path stroke="black" cap="2">
+  1.00001 0 m
+  5 0 l
+  </path>
+  <path stroke="black" cap="2">
+  -1 2 m
+  -1 -2 l
+  </path>
+  <path matrix="1 0 0 1 2 0" stroke="black" cap="2">
+  -1 2 m
+  -1 -2 l
+  </path>
+  </group>
+</symbol>
+
 <symbol name="Basic/Capacitor_elco" snap="-16 0 16 0 0 0">
   <group>
   <path matrix="0 0.466667 -1 0 44 -22.9333" stroke="black" cap="2">
@@ -496,6 +517,29 @@
   <path matrix="1 0 0 1 -84 -28" stroke="black" cap="2">
   117 48 m
   120 48 l
+  </path>
+  </group>
+</symbol>
+
+<symbol name="Contactors/Main Contactor 2-pole">
+  <group layer="alpha" matrix="1 0 0 1 0 4">
+  <use matrix="1 0 0 1 -256 -608" name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 -256 -616" name="Contactors/Switch open" pos="256 608"/>
+  <path stroke="black" dash="dashed" pen="small">
+  0 2 m
+  0 -6 l
+  </path>
+  </group>
+</symbol>
+
+<symbol name="Contactors/Main Contactor 3-pole">
+  <group layer="alpha">
+  <use matrix="1 0 0 1 -256 -608" name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 -256 -600" name="Contactors/Switch open" pos="256 608"/>
+  <use matrix="1 0 0 1 -256 -616" name="Contactors/Switch open" pos="256 608"/>
+  <path matrix="1 0 0 1 -4 0" stroke="black" dash="dashed" pen="small">
+  4 10 m
+  4 -6 l
   </path>
   </group>
 </symbol>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="ControlSystems">
+<symbol name="ControlSystems/Process">
+<group layer="alpha" matrix="1 0 0 1 -32 -16">
+<path stroke="black">
+0 32 m
+0 0 l
+64 0 l
+64 32 l
+h
+</path>
+<group>
+<text transformations="translations" pos="32 16" stroke="black" type="label" width="25.522" height="9.341" depth="1.67" halign="center" valign="center" size="Large">H(s)</text>
+</group>
+</group>
+</symbol>
+<symbol name="ControlSystems/Controller">
+<group layer="alpha" matrix="1 0 0 1 -16 0">
+<path stroke="black">
+0 16 m
+0 -16 l
+32 -16 l
+32 16 l
+h
+</path>
+<text matrix="1 0 0 1 -16 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="12.438" height="9.339" depth="0" halign="center" valign="center" size="Large">PI</text>
+</group>
+</symbol>
+<symbol name="ControlSystems/Summation_Error">
+<group layer="alpha">
+<path stroke="black">
+12 0 0 12 0 0 e
+</path>
+<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="10.587" height="11.078" depth="0" halign="center" valign="center" size="LARGE" style="math">\Sigma</text>
+<text matrix="1 0 0 1 -48 -8" transformations="translations" pos="32 16" stroke="black" type="label" width="7.517" height="6.614" depth="0" halign="center" valign="center" size="Large">+</text>
+<text matrix="1 0 0 1 -40 -32" transformations="translations" pos="32 16" stroke="black" type="label" width="5.179" height="3.73" depth="0" halign="center" valign="center" size="Large">-</text>
+</group>
+</symbol>
+<symbol name="ControlSystems/Summation_Pertubation">
+<group layer="alpha">
+<path stroke="black">
+12 0 0 12 0 0 e
+</path>
+<text matrix="1 0 0 1 -32 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="10.587" height="11.078" depth="0" halign="center" valign="center" size="LARGE" style="math">\Sigma</text>
+<text matrix="1 0 0 1 -48 -8" transformations="translations" pos="32 16" stroke="black" type="label" width="7.517" height="6.614" depth="0" halign="center" valign="center" size="Large">+</text>
+<text matrix="1 0 0 1 -24 4" transformations="translations" pos="32 16" stroke="black" type="label" width="10.487" height="6.614" depth="0" halign="center" valign="center" size="Large">+
+</text>
+</group>
+</symbol>
+</ipestyle>
