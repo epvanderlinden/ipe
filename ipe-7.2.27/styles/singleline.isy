@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="singleline">
-<symbol name="singleline/controlled_3ph_bridge_right">
+<ipestyle name="Single Line">
+<symbol name="Single Line/controlled_3ph_bridge_right">
 <group layer="alpha">
 <path matrix="1 0 0 1 -24 -16" stroke="black">
 30 8 m
@@ -36,7 +36,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/controlled_3ph_bridge_left">
+<symbol name="Single Line/controlled_3ph_bridge_left">
 <group layer="alpha">
 <path matrix="1 0 0 1 -40 -4" stroke="black">
 30 8 m
@@ -71,7 +71,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/uncontrolled_3ph_bridge_right">
+<symbol name="Single Line/uncontrolled_3ph_bridge_right">
 <group layer="alpha">
 <path matrix="1 0 0 1 -368 -528" stroke="black">
 384 544 m
@@ -101,7 +101,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/uncontrolled_3ph_bridge_left">
+<symbol name="Single Line/uncontrolled_3ph_bridge_left">
 <group layer="alpha">
 <path matrix="1 0 0 1 -32 -6" stroke="black">
 20 12 m
@@ -131,7 +131,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/dc_dc_converter">
+<symbol name="Single Line/dc_dc_converter">
 <group layer="alpha">
 <path matrix="1 0 0 1 -368 -528" stroke="black">
 384 544 m
@@ -162,7 +162,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/dc_dc_converter_isolated">
+<symbol name="Single Line/dc_dc_converter_isolated">
 <group layer="alpha">
 <path matrix="1 0 0 1 -24 -16" stroke="black">
 39 32 m
@@ -197,7 +197,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/sine_wave_filter_block">
+<symbol name="Single Line/sine_wave_filter_block">
 <group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
@@ -206,11 +206,11 @@ h
 32 32 l
 h
 </path>
-<use matrix="0 1 -1 0 37 -7" name="components/inductor" pos="23 18"/>
-<use matrix="0 1 -1 0 42 -11" name="components/capacitor" pos="27 14"/>
+<use matrix="0 1 -1 0 37 -7" name="Basic/Inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 42 -11" name="Basic/Capacitor" pos="27 14"/>
 </group>
 </symbol>
-<symbol name="singleline/du_dt_filter_block">
+<symbol name="Single Line/du_dt_filter_block">
 <group layer="alpha" matrix="1 0 0 1 -16 -16">
 <path stroke="black">
 0 32 m
@@ -219,28 +219,49 @@ h
 32 32 l
 h
 </path>
-<use matrix="0 1 -1 0 34 -7" name="components/inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 34 -7" name="Basic/Inductor" pos="23 18"/>
 </group>
 </symbol>
-<symbol name="singleline/transformer">
-<group layer="alpha">
-<path matrix="1 0 0 1 -188 -80" stroke="black">
-14.4222 0 0 14.4222 196 80 e
-</path>
-<path matrix="1 0 0 1 -204 -80" stroke="black">
-14.4222 0 0 14.4222 196 80 e
-</path>
-<path stroke="black">
-22 0 m
-32 0 l
-</path>
-<path matrix="1 0 0 1 -54 0" stroke="black">
-22 0 m
-32 0 l
-</path>
-</group>
+
+<symbol name="Single Line/Transformer">
+    <group layer="alpha">
+    <path matrix="1 0 0 1 -188 -80" stroke="black">
+    14.4222 0 0 14.4222 196 80 e
+    </path>
+    <path matrix="1 0 0 1 -204 -80" stroke="black">
+    14.4222 0 0 14.4222 196 80 e
+    </path>
+    <path stroke="black">
+    22 0 m
+    32 0 l
+    </path>
+    <path matrix="1 0 0 1 -54 0" stroke="black">
+    22 0 m
+    32 0 l
+    </path>
+    </group>
 </symbol>
-<symbol name="singleline/transformer_Yyd">
+
+<symbol name="Single Line/Transformer small">
+    <group layer="alpha" matrix="1 0 0 1 -444 -296">
+    <path matrix="1 0 0 1 -1 -24" stroke="black">
+    8 0 0 8 440 320 e
+    </path>
+    <path matrix="1 0 0 1 9 -24" stroke="black">
+    8 0 0 8 440 320 e
+    </path>
+    <path stroke="black">
+    457 296 m
+    460 296 l
+    </path>
+    <path stroke="black">
+    431 296 m
+    428 296 l
+    </path>
+    </group>
+</symbol>
+
+<symbol name="Single Line/Transformer Yyd">
 <group layer="alpha" matrix="1 0 0 1 -48 -32">
 <path matrix="-1 0 0 -1 236 120" stroke="black">
 14.4222 0 0 14.4222 196 80 e
@@ -292,7 +313,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/motor_AC">
+<symbol name="Single Line/Motor AC">
 <group layer="alpha" matrix="1 0 0 1 -16 -16">
 <path matrix="1 0 0 1 0 6" stroke="black" fill="white">
 10 0 0 10 16 10 e
@@ -307,7 +328,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/generator_AC">
+<symbol name="Single Line/Generator AC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -16 -10" stroke="black" fill="white">
 10 0 0 10 16 10 e
@@ -322,7 +343,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="singleline/threephase_line_symbol_horizontal">
+<symbol name="Single Line/threephase_line_symbol_horizontal">
 <group layer="alpha">
 <path matrix="1 0 0 1 -414 -296" stroke="black" pen="heavier">
 416 300 m
@@ -331,7 +352,7 @@ h
 <text matrix="1 0 0 1 -430 -320" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
 </group>
 </symbol>
-<symbol name="singleline/threephase_line_symbol_vertical">
+<symbol name="Single Line/threephase_line_symbol_vertical">
 <group layer="alpha">
 <text matrix="1 0 0 1 -422 -328" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
 <path matrix="1 0 0 1 -384 -656" stroke="black" pen="heavier">
