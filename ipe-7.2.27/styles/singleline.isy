@@ -322,4 +322,22 @@ h
 </path>
 </group>
 </symbol>
+<symbol name="singleline/threephase_line_symbol_horizontal">
+<group layer="alpha">
+<path matrix="1 0 0 1 -414 -296" stroke="black" pen="heavier">
+416 300 m
+412 292 l
+</path>
+<text matrix="1 0 0 1 -430 -320" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
+</group>
+</symbol>
+<symbol name="singleline/threephase_line_symbol_vertical">
+<group layer="alpha">
+<text matrix="1 0 0 1 -422 -328" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
+<path matrix="1 0 0 1 -384 -656" stroke="black" pen="heavier">
+388 658 m
+380 654 l
+</path>
+</group>
+</symbol>
 </ipestyle>
