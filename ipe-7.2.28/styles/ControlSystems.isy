@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="ControlSystems">
-<symbol name="ControlSystems/Process">
+<ipestyle name="Control Systems">
+<symbol name="Control Systems/Process">
 <group layer="alpha" matrix="1 0 0 1 -32 -16">
 <path stroke="black">
 0 32 m
@@ -15,7 +15,7 @@ h
 </group>
 </group>
 </symbol>
-<symbol name="ControlSystems/Controller">
+<symbol name="Control Systems/Controller">
 <group layer="alpha" matrix="1 0 0 1 -16 0">
 <path stroke="black">
 0 16 m
@@ -27,7 +27,7 @@ h
 <text matrix="1 0 0 1 -16 -16" transformations="translations" pos="32 16" stroke="black" type="label" width="12.438" height="9.339" depth="0" halign="center" valign="center" size="Large">PI</text>
 </group>
 </symbol>
-<symbol name="ControlSystems/Summation_Error">
+<symbol name="Control Systems/Summation error">
 <group layer="alpha">
 <path stroke="black">
 12 0 0 12 0 0 e
@@ -37,7 +37,7 @@ h
 <text matrix="1 0 0 1 -40 -32" transformations="translations" pos="32 16" stroke="black" type="label" width="5.179" height="3.73" depth="0" halign="center" valign="center" size="Large">-</text>
 </group>
 </symbol>
-<symbol name="ControlSystems/Summation_Pertubation">
+<symbol name="Control Systems/Summation pertubation">
 <group layer="alpha">
 <path stroke="black">
 12 0 0 12 0 0 e

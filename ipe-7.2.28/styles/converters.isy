@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="converters">
-<symbol name="converters/inverter_3ph_igbt_right">
+<ipestyle name="Electrical Power Converters">
+<symbol name="Electrical Power Converters/inverter_3ph_igbt_right">
 <group layer="alpha" matrix="1 0 0 1 -118 -128">
-<use matrix="1 0 0 1 30 76" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 30 116" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 54 116" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 54 76" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 78 116" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 78 76" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 30 76" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 30 116" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 54 116" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 54 76" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 78 116" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 78 76" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 126 128" stroke="black">
 -32 8 m
 -32 -8 l
@@ -26,7 +26,7 @@
 142 160 l
 72 160 l
 </path>
-<use matrix="0 1 -1 0 129 82" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 129 82" name="Electrical Components/Capacitor" pos="46 49"/>
 <path stroke="black">
 142 100 m
 142 96 l
@@ -79,14 +79,14 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_left">
+<symbol name="Electrical Power Converters/inverter_3ph_igbt_left">
 <group layer="alpha" matrix="1 0 0 1 -106 -224">
-<use matrix="1 0 0 1 18 172" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 18 212" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 42 212" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 42 172" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 66 212" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 66 172" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 18 172" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 18 212" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 42 212" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 42 172" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 66 212" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 66 172" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 114 224" stroke="black">
 -32 8 m
 -32 -8 l
@@ -104,7 +104,7 @@
 80 192 l
 150 192 l
 </path>
-<use matrix="0 1 -1 0 193 178" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 193 178" name="Electrical Components/Capacitor" pos="46 49"/>
 <path matrix="1 0 0 1 2 0" stroke="black">
 80 252 m
 80 256 l
@@ -157,14 +157,14 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_down">
+<symbol name="Electrical Power Converters/inverter_3ph_igbt_down">
 <group layer="alpha" matrix="1 0 0 1 -70 -48">
-<use matrix="1 0 0 1 -18 0" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -18 32" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 6 32" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 6 0" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 30 32" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 30 0" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -18 0" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -18 32" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 6 32" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 6 0" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 30 32" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 30 0" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 78 48" stroke="black">
 -32 4 m
 -32 -8 l
@@ -182,7 +182,7 @@
 94 80 l
 24 80 l
 </path>
-<use matrix="0 1 -1 0 81 2" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 81 2" name="Electrical Components/Capacitor" pos="46 49"/>
 <path stroke="black">
 94 20 m
 94 16 l
@@ -238,14 +238,14 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_with_brakechopper_igbt_right">
+<symbol name="Electrical Power Converters/inverter_3ph_with_brakechopper_igbt_right">
 <group layer="alpha" matrix="1 0 0 1 -80 -48">
-<use matrix="1 0 0 1 0 -4" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 0 36" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 32 36" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 32 -4" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 64 36" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 64 -4" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 0 -4" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 0 36" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 32 36" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 32 -4" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 64 36" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 64 -4" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 96 48" stroke="black">
 -32 8 m
 -32 -8 l
@@ -263,7 +263,7 @@
 128 80 l
 4 80 l
 </path>
-<use matrix="0 1 -1 0 61 2" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 61 2" name="Electrical Components/Capacitor" pos="46 49"/>
 <path stroke="black">
 128 20 m
 128 16 l
@@ -314,14 +314,14 @@
 32 -4 m
 40 -4 l
 </path>
-<use matrix="1 0 0 1 -32 -4" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -32 36" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -32 -4" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -32 36" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 64 48" stroke="black">
 -32 8 m
 -32 -8 l
 </path>
 <use matrix="1 0 0 1 -32 -16" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
-<use name="Basic/Resistor" pos="28 8"/>
+<use name="Electrical Components/Resistor" pos="28 8"/>
 <path stroke="black">
 32 48 m
 44 48 l
@@ -337,10 +337,10 @@
 <use matrix="1 0 0 1 -32 -80" name="mark/disk(sx)" pos="64 96" size="normal" stroke="black"/>
 </group>
 </symbol>
-<symbol name="converters/inverter_3ph_igbt_3level_right">
+<symbol name="Electrical Power Converters/inverter_3ph_igbt_3level_right">
 <group layer="alpha" matrix="1 0 0 1 -288 -96">
-<use matrix="0 1 -1 0 304 -64" name="Basic/Capacitor" pos="192 128"/>
-<use matrix="0 1 -1 0 304 -128" name="Basic/Capacitor" pos="192 128"/>
+<use matrix="0 1 -1 0 304 -64" name="Electrical Components/Capacitor" pos="192 128"/>
+<use matrix="0 1 -1 0 304 -128" name="Electrical Components/Capacitor" pos="192 128"/>
 <path stroke="black">
 176 120 m
 176 72 l
@@ -368,12 +368,12 @@
 368 96 l
 </path>
 <group>
-<use matrix="1 0 0 1 0 16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -48" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -80" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Semiconductors/diode" pos="208 112"/>
+<use matrix="1 0 0 1 0 16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -402,12 +402,12 @@
 </path>
 </group>
 <group matrix="1 0 0 1 64 0">
-<use matrix="1 0 0 1 0 16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -48" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -80" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Semiconductors/diode" pos="208 112"/>
+<use matrix="1 0 0 1 0 16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -436,12 +436,12 @@
 </path>
 </group>
 <group matrix="1 0 0 1 128 0">
-<use matrix="1 0 0 1 0 16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -16" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -48" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="1 0 0 1 0 -80" name="Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Semiconductors/diode" pos="208 112"/>
+<use matrix="1 0 0 1 0 16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -522,12 +522,12 @@
 <use name="mark/disk(sx)" pos="368 92" size="normal" stroke="black"/>
 </group>
 </symbol>
-<symbol name="converters/h-bridge_2ph_igbt_left">
+<symbol name="Electrical Power Converters/h-bridge_2ph_igbt_left">
 <group layer="alpha">
-<use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path stroke="black">
 -32 12 m
 -32 -12 l
@@ -544,7 +544,7 @@
 136 48 m
 128 48 l
 </path>
-<use matrix="0 1 -1 0 69 -46" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 69 -46" name="Electrical Components/Capacitor" pos="46 49"/>
 <path stroke="black">
 20 7 m
 20 31 l
@@ -579,12 +579,12 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/h-bridge_2ph_igbt_right">
+<symbol name="Electrical Power Converters/h-bridge_2ph_igbt_right">
 <group layer="alpha" matrix="1 0 0 1 32 0">
-<use matrix="1 0 0 1 -96 -52" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -96 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -96 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path stroke="black">
 -32 12 m
 -32 -12 l
@@ -601,7 +601,7 @@
 136 48 m
 128 48 l
 </path>
-<use matrix="0 1 -1 0 -3 -46" name="Basic/Capacitor" pos="46 49"/>
+<use matrix="0 1 -1 0 -3 -46" name="Electrical Components/Capacitor" pos="46 49"/>
 <path matrix="1 0 0 1 -72 0" stroke="black">
 20 7 m
 20 31 l
@@ -636,7 +636,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/passive_rectifier_3ph_diode_left">
+<symbol name="Electrical Power Converters/passive_rectifier_3ph_diode_left">
 <group layer="alpha" matrix="1 0 0 1 -8 0">
 <path matrix="1 0 0 1 -104 -56" stroke="black">
 96 72 m
@@ -648,10 +648,10 @@
 </path>
 <use matrix="1 0 0 1 -72 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -120 -48" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 65 -165" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 65 -203" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 81 -203" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 81 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 65 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 65 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 81 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 81 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
 <path stroke="black">
 -8 22 m
 -8 32 l
@@ -685,8 +685,8 @@
 128 40 l
 </path>
 <use matrix="1 0 0 1 -104 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 97 -203" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 97 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 97 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 97 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
 <use matrix="1 0 0 1 -221 -58" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -221 -42" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
 <path matrix="1 0 0 1 -221 -58" stroke="black">
@@ -703,7 +703,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/passive_rectifier_1ph_diode_left">
+<symbol name="Electrical Power Converters/passive_rectifier_1ph_diode_left">
 <group layer="alpha" matrix="1 0 0 1 8 0">
 <path matrix="1 0 0 1 -112 -56" stroke="black">
 96 72 m
@@ -715,10 +715,10 @@
 </path>
 <use matrix="1 0 0 1 -80 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -128 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 57 -165" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 57 -203" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 73 -203" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 73 -165" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 57 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 57 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
 <path stroke="black">
 -16 22 m
 -16 32 l
@@ -749,14 +749,14 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/passive_rectifier_1ph_diode_left_small">
+<symbol name="Electrical Power Converters/passive_rectifier_1ph_diode_left_small">
 <group layer="alpha" matrix="1 0 0 1 -48 -40">
 <use matrix="1 0 0 1 -28 -20" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -80 -12" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 109 -135" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 109 -153" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 121 -153" name="Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 121 -135" name="Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 109 -135" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 109 -153" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 121 -153" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 121 -135" name="Electrical Semiconductors/diode" pos="185 73"/>
 <path stroke="black">
 36 54 m
 36 56 l
@@ -791,10 +791,10 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/dc_chopper_1ph_right">
+<symbol name="Electrical Power Converters/dc_chopper_1ph_right">
 <group layer="alpha">
-<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 -96 -56" stroke="black">
 96 72 m
 96 40 l
@@ -819,10 +819,10 @@
 </path>
 </group>
 </symbol>
-<symbol name="converters/dc_chopper_1ph_left">
+<symbol name="Electrical Power Converters/dc_chopper_1ph_left">
 <group layer="alpha">
-<use matrix="1 0 0 1 -64 -12" name="Semiconductors/IGBT" pos="64 32"/>
-<use matrix="1 0 0 1 -64 -52" name="Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -12" name="Electrical Semiconductors/IGBT" pos="64 32"/>
+<use matrix="1 0 0 1 -64 -52" name="Electrical Semiconductors/IGBT" pos="64 32"/>
 <path matrix="1 0 0 1 -96 -56" stroke="black">
 96 72 m
 96 40 l

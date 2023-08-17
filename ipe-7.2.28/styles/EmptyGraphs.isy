@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="EmptyGraphs">
-<symbol name="EmptyGraphs/VectorHexagon">
+<ipestyle name="Empty Graphs">
+<symbol name="Empty Graphs/VectorHexagon">
 <group layer="alpha">
 <path stroke="black" arrow="normal/normal">
 0 0 m
@@ -49,7 +49,7 @@
 </text>
 </group>
 </symbol>
-<symbol name="EmptyGraphs/TorqueCurveASM">
+<symbol name="Empty Graphs/TorqueCurveASM">
 <group layer="alpha" matrix="1 0 0 1 -288 -448">
 <path stroke="black" arrow="normal/normal">
 128 384 m

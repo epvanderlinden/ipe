@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Single Line">
-<symbol name="Single Line/controlled_3ph_bridge_right">
+<ipestyle name="Electrical Converter Blockdiagram">
+<symbol name="Electrical Converter Blockdiagram/Controlled Converter DC AC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -24 -16" stroke="black">
 30 8 m
@@ -36,7 +36,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/controlled_3ph_bridge_left">
+<symbol name="Electrical Converter Blockdiagram/Converter AC DC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -40 -4" stroke="black">
 30 8 m
@@ -71,7 +71,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/uncontrolled_3ph_bridge_right">
+<symbol name="Electrical Converter Blockdiagram/Uncontrolled converter DC AC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -368 -528" stroke="black">
 384 544 m
@@ -101,7 +101,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/uncontrolled_3ph_bridge_left">
+<symbol name="Electrical Converter Blockdiagram/Uncontrolled converter AC DC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -32 -6" stroke="black">
 20 12 m
@@ -131,7 +131,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/dc_dc_converter">
+<symbol name="Electrical Converter Blockdiagram/DC DC converter">
 <group layer="alpha">
 <path matrix="1 0 0 1 -368 -528" stroke="black">
 384 544 m
@@ -162,7 +162,8 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/dc_dc_converter_isolated">
+
+<symbol name="Electrical Converter Blockdiagram/DC DC converter isolated">
 <group layer="alpha">
 <path matrix="1 0 0 1 -24 -16" stroke="black">
 39 32 m
@@ -197,7 +198,72 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/sine_wave_filter_block">
+
+<symbol name="Electrical Converter Blockdiagram/DC DC converter HF (right)">
+<group layer="alpha">
+<path stroke="black">
+4 -8 m
+6 -8 l
+6 -4 l
+10 -4 l
+10 -8 l
+12 -8 l
+</path>
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+</group>
+</symbol>
+
+<symbol name="Electrical Converter Blockdiagram/DC DC converter HF (left)">
+<group layer="alpha">
+<path matrix="1 0 0 1 -368 -528" stroke="black">
+384 544 m
+352 512 l
+</path>
+<path matrix="1 0 0 1 -16 -16" stroke="black">
+0 32 m
+0 0 l
+32 0 l
+32 32 l
+h
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 24 m
+12 24 l
+</path>
+<path matrix="1 0 0 1 0 -28" stroke="black">
+4 20 m
+12 20 l
+</path>
+<path stroke="black">
+-12 4 m
+-10 4 l
+-10 8 l
+-6 8 l
+-6 4 l
+-4 4 l
+</path>
+</group>
+</symbol>
+
+<symbol name="Electrical Converter Blockdiagram/Harmonic Filter Block (sinewave)">
 <group layer="alpha" matrix="1 0 0 1 -24 -16">
 <path matrix="1 0 0 1 8 0" stroke="black">
 0 32 m
@@ -206,11 +272,11 @@ h
 32 32 l
 h
 </path>
-<use matrix="0 1 -1 0 37 -7" name="Basic/Inductor" pos="23 18"/>
-<use matrix="0 1 -1 0 42 -11" name="Basic/Capacitor" pos="27 14"/>
+<use matrix="0 1 -1 0 37 -7" name="Electrical Components/Inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 42 -11" name="Electrical Components/Capacitor" pos="27 14"/>
 </group>
 </symbol>
-<symbol name="Single Line/du_dt_filter_block">
+<symbol name="Electrical Converter Blockdiagram/Harmonic Filter Block (dudt)">
 <group layer="alpha" matrix="1 0 0 1 -16 -16">
 <path stroke="black">
 0 32 m
@@ -219,11 +285,11 @@ h
 32 32 l
 h
 </path>
-<use matrix="0 1 -1 0 34 -7" name="Basic/Inductor" pos="23 18"/>
+<use matrix="0 1 -1 0 34 -7" name="Electrical Components/Inductor" pos="23 18"/>
 </group>
 </symbol>
 
-<symbol name="Single Line/Transformer">
+<symbol name="Electrical Converter Blockdiagram/Transformer">
     <group layer="alpha">
     <path matrix="1 0 0 1 -188 -80" stroke="black">
     14.4222 0 0 14.4222 196 80 e
@@ -242,7 +308,7 @@ h
     </group>
 </symbol>
 
-<symbol name="Single Line/Transformer small">
+<symbol name="Electrical Converter Blockdiagram/Transformer (small)">
     <group layer="alpha" matrix="1 0 0 1 -444 -296">
     <path matrix="1 0 0 1 -1 -24" stroke="black">
     8 0 0 8 440 320 e
@@ -261,7 +327,7 @@ h
     </group>
 </symbol>
 
-<symbol name="Single Line/Transformer Yyd">
+<symbol name="Electrical Converter Blockdiagram/Transformer (Yyd)">
 <group layer="alpha" matrix="1 0 0 1 -48 -32">
 <path matrix="-1 0 0 -1 236 120" stroke="black">
 14.4222 0 0 14.4222 196 80 e
@@ -313,7 +379,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/Motor AC">
+<symbol name="Electrical Converter Blockdiagram/Motor AC">
 <group layer="alpha" matrix="1 0 0 1 -16 -16">
 <path matrix="1 0 0 1 0 6" stroke="black" fill="white">
 10 0 0 10 16 10 e
@@ -328,7 +394,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/Generator AC">
+<symbol name="Electrical Converter Blockdiagram/Generator AC">
 <group layer="alpha">
 <path matrix="1 0 0 1 -16 -10" stroke="black" fill="white">
 10 0 0 10 16 10 e
@@ -343,7 +409,7 @@ h
 </path>
 </group>
 </symbol>
-<symbol name="Single Line/threephase_line_symbol_horizontal">
+<symbol name="Electrical Converter Blockdiagram/Threephase line symbol (horizontal)">
 <group layer="alpha">
 <path matrix="1 0 0 1 -414 -296" stroke="black" pen="heavier">
 416 300 m
@@ -352,7 +418,7 @@ h
 <text matrix="1 0 0 1 -430 -320" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
 </group>
 </symbol>
-<symbol name="Single Line/threephase_line_symbol_vertical">
+<symbol name="Electrical Converter Blockdiagram/Threephase line symbol (vertical)">
 <group layer="alpha">
 <text matrix="1 0 0 1 -422 -328" transformations="translations" pos="418 326" stroke="black" type="minipage" width="23.534" height="4.127" depth="0" valign="baseline" size="tiny" style="center">3</text>
 <path matrix="1 0 0 1 -384 -656" stroke="black" pen="heavier">
