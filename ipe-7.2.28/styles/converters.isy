@@ -372,8 +372,8 @@
 <use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/Diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/Diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -406,8 +406,8 @@
 <use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/Diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/Diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -440,8 +440,8 @@
 <use matrix="1 0 0 1 0 -16" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -48" name="Electrical Semiconductors/IGBT" pos="240 128"/>
 <use matrix="1 0 0 1 0 -80" name="Electrical Semiconductors/IGBT" pos="240 128"/>
-<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/diode" pos="208 112"/>
-<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -96" name="Electrical Semiconductors/Diode" pos="208 112"/>
+<use matrix="0 1 -1 0 320 -128" name="Electrical Semiconductors/Diode" pos="208 112"/>
 <path stroke="black">
 240 136 m
 240 120 l
@@ -636,7 +636,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="Electrical Power Converters/passive_rectifier_3ph_diode_left">
+<symbol name="Electrical Power Converters/passive_rectifier_3ph_Diode_left">
 <group layer="alpha" matrix="1 0 0 1 -8 0">
 <path matrix="1 0 0 1 -104 -56" stroke="black">
 96 72 m
@@ -648,10 +648,10 @@
 </path>
 <use matrix="1 0 0 1 -72 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -120 -48" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 65 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 65 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 81 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 81 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 65 -165" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 65 -203" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 81 -203" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 81 -165" name="Electrical Semiconductors/Diode" pos="185 73"/>
 <path stroke="black">
 -8 22 m
 -8 32 l
@@ -685,8 +685,8 @@
 128 40 l
 </path>
 <use matrix="1 0 0 1 -104 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 97 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 97 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 97 -203" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 97 -165" name="Electrical Semiconductors/Diode" pos="185 73"/>
 <use matrix="1 0 0 1 -221 -58" name="mark/disk(sx)" pos="245 90" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -221 -42" name="mark/disk(sx)" pos="245 10" size="normal" stroke="black"/>
 <path matrix="1 0 0 1 -221 -58" stroke="black">
@@ -703,7 +703,7 @@
 </path>
 </group>
 </symbol>
-<symbol name="Electrical Power Converters/passive_rectifier_1ph_diode_left">
+<symbol name="Electrical Power Converters/passive_rectifier_1ph_Diode_left">
 <group layer="alpha" matrix="1 0 0 1 8 0">
 <path matrix="1 0 0 1 -112 -56" stroke="black">
 96 72 m
@@ -715,10 +715,10 @@
 </path>
 <use matrix="1 0 0 1 -80 -56" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -128 -56" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 57 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 57 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 73 -203" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 73 -165" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 57 -165" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 57 -203" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -203" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 73 -165" name="Electrical Semiconductors/Diode" pos="185 73"/>
 <path stroke="black">
 -16 22 m
 -16 32 l
@@ -749,14 +749,14 @@
 </path>
 </group>
 </symbol>
-<symbol name="Electrical Power Converters/passive_rectifier_1ph_diode_left_small">
+<symbol name="Electrical Power Converters/passive_rectifier_1ph_Diode_left_small">
 <group layer="alpha" matrix="1 0 0 1 -48 -40">
 <use matrix="1 0 0 1 -28 -20" name="mark/disk(sx)" pos="64 64" size="normal" stroke="black"/>
 <use matrix="1 0 0 1 -80 -12" name="mark/disk(sx)" pos="128 48" size="normal" stroke="black"/>
-<use matrix="0 1 -1 0 109 -135" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 109 -153" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 121 -153" name="Electrical Semiconductors/diode" pos="185 73"/>
-<use matrix="0 1 -1 0 121 -135" name="Electrical Semiconductors/diode" pos="185 73"/>
+<use matrix="0 1 -1 0 109 -135" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 109 -153" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 121 -153" name="Electrical Semiconductors/Diode" pos="185 73"/>
+<use matrix="0 1 -1 0 121 -135" name="Electrical Semiconductors/Diode" pos="185 73"/>
 <path stroke="black">
 36 54 m
 36 56 l

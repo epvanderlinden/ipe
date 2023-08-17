@@ -374,7 +374,7 @@
   </group>
 </symbol>
 
-<symbol name="Electrical Components/Resistor (normal)" snap="-16 0 16 0 0">
+<symbol name="Electrical Components/Resistor" snap="-16 0 16 0 0">
   <group>
   <path matrix="1 0 0 1 0 -14.1" stroke="black">
   -8 16 m
