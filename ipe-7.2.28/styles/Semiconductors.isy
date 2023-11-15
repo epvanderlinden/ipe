@@ -444,4 +444,52 @@
     </group>
 </symbol>
 
+<symbol name="Electrical Semiconductors/Optocoupler">
+    <group layer="EDIT-GROUP" matrix="1 0 0 1 -402 -316">
+    <use matrix="0 -1 1 0 80 718" name="Electrical Semiconductors/Diode (small)" pos="402 316" stroke="black"/>
+    <use matrix="1 0 0 1 -12 1" name="arrow/ptarc(spx)" pos="416 317" size="normal" stroke="black"/>
+    <use matrix="0.707107 -0.707107 0.707107 0.707107 -108.31 382.004" name="arrow/ptarc(spx)" pos="416 317" size="normal" stroke="black"/>
+    <use matrix="1 0 0 1 -12 -3" name="arrow/ptarc(spx)" pos="416 317" size="normal" stroke="black"/>
+    <path matrix="1 0 0 1 -2 0" stroke="black">
+    404 318 m
+    401 318 l
+    </path>
+    <path matrix="1 0 0 1 -2 -4" stroke="black">
+    404 318 m
+    401 318 l
+    </path>
+    <path matrix="1 0 0 1 -2 0" stroke="black">
+    408 316 m
+    413 311 l
+    414 311 l
+    </path>
+    <path matrix="1 0 0 1 -2 0" stroke="black">
+    408 316 m
+    413 321 l
+    414 321 l
+    </path>
+    <path matrix="1 0 0 1 -2 0" stroke="black" pen="fat">
+    408 322 m
+    408 310 l
+    </path>
+    <path stroke="black">
+    396 320 m
+    396 321 l
+    392 321 l
+    </path>
+    <path stroke="black">
+    396 312 m
+    396 311 l
+    392 311 l
+    </path>
+    <path stroke="black" dash="dashed" pen="small">
+    392 324 m
+    392 308 l
+    412 308 l
+    412 324 l
+    h
+    </path>
+    </group>
+</symbol>
+
 </ipestyle>
