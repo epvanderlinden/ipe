@@ -627,6 +627,32 @@
   </group>
 </symbol>
 
+<symbol name="Electrical Components/Opamp left" snap="0 0 0 -16">
+  <group layer="alpha">
+  <path matrix="-1 0 -0 -1 205 678" stroke="black">
+  200 684 m
+  200 672 l
+  210 678 l
+  h
+  </path>
+  <text matrix="-1 0 -0 -1 212 667" transformations="translations" pos="209 669" stroke="black" type="label" width="2.291" height="0" depth="0.58" halign="center" valign="center" size="tiny" style="math">\_</text>
+  <text matrix="-1 0 0 -1 212 671" transformations="translations" pos="209 669" stroke="black" type="label" width="2.61" height="2.296" depth="0" halign="center" valign="center" size="tiny">+</text>
+  </group>
+</symbol>
+
+<symbol name="Electrical Components/Opamp right" snap="0 0 0 -16">
+  <group layer="alpha" matrix="1 0 0 1 -212 -666">
+  <path matrix="1 0 0 1 7 -12" stroke="black">
+  200 684 m
+  200 672 l
+  210 678 l
+  h
+  </path>
+  <text matrix="1 0 0 1 0 -1" transformations="translations" pos="209 669" stroke="black" type="label" width="2.61" height="2.296" depth="0" halign="center" valign="center" size="tiny">+</text>
+  <text matrix="1 0 0 1 0 -5" transformations="translations" pos="209 669" stroke="black" type="label" width="2.291" height="0" depth="0.58" halign="center" valign="center" size="tiny" style="math">\_</text>
+  </group>
+</symbol>
+
 <symbol name="Electrical Components/Winding core 8pt" snap="0 0 0 -16">
   <group matrix="1 0 0 1.14286 -24 -36.5714">
   <group matrix="1 0 0 0.5 -100 -302">
