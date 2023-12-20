@@ -221,46 +221,108 @@ h
 </group>
 </symbol>
 
-<symbol name="Electrical Converter Blockdiagram/Harmonic Filter Block (sinewave)">
-<group layer="alpha" matrix="1 0 0 1 -24 -16">
-<path matrix="1 0 0 1 8 0" stroke="black">
-0 32 m
-0 0 l
-32 0 l
-32 32 l
-h
-</path>
-<use matrix="0 1 -1 0 37 -7" name="Electrical Components/Inductor" pos="23 18"/>
-<use matrix="0 1 -1 0 42 -11" name="Electrical Components/Capacitor" pos="27 14"/>
-</group>
+<symbol name="Electrical Converter Blockdiagram/Line Filter Block (left)">
+    <group layer="alpha">
+    <path matrix="1 0 0 1 -16 -16" stroke="black">
+    0 32 m
+    0 0 l
+    32 0 l
+    32 32 l
+    h
+    </path>
+    <use matrix="1 -0 0 1 -23 -10" name="Electrical Components/Inductor" pos="23 18"/>
+    <use matrix="0 1 -1 0 23 -28" name="Electrical Components/Capacitor" pos="27 14"/>
+    <path stroke="black">
+    9 6 m
+    9 8 l
+    </path>
+    </group>
 </symbol>
+
+<symbol name="Electrical Converter Blockdiagram/Line Filter Block (right)">
+    <group layer="alpha">
+    <path matrix="1 0 0 1 -16 -16" stroke="black">
+    0 32 m
+    0 0 l
+    32 0 l
+    32 32 l
+    h
+    </path>
+    <use matrix="1 -0 0 1 -23 -10" name="Electrical Components/Inductor" pos="23 18"/>
+    <use matrix="0 1 -1 0 5 -28" name="Electrical Components/Capacitor" pos="27 14"/>
+    <path matrix="1 0 0 1 -18 0" stroke="black">
+    9 6 m
+    9 8 l
+    </path>
+    </group>
+</symbol>
+
+<symbol name="Electrical Converter Blockdiagram/Harmonic Filter Block (sinewave)">
+    <group layer="alpha" matrix="1 0 0 1 -24 -16">
+    <path matrix="1 0 0 1 8 0" stroke="black">
+    0 32 m
+    0 0 l
+    32 0 l
+    32 32 l
+    h
+    </path>
+    <use matrix="0 1 -1 0 37 -7" name="Electrical Components/Inductor" pos="23 18"/>
+    <use matrix="0 1 -1 0 42 -11" name="Electrical Components/Capacitor" pos="27 14"/>
+    </group>
+</symbol>
+
 <symbol name="Electrical Converter Blockdiagram/Harmonic Filter Block (dudt)">
-<group layer="alpha" matrix="1 0 0 1 -16 -16">
-<path stroke="black">
-0 32 m
-0 0 l
-32 0 l
-32 32 l
-h
-</path>
-<use matrix="0 1 -1 0 34 -7" name="Electrical Components/Inductor" pos="23 18"/>
-</group>
+    <group layer="alpha" matrix="1 0 0 1 -16 -16">
+    <path stroke="black">
+    0 32 m
+    0 0 l
+    32 0 l
+    32 32 l
+    h
+    </path>
+    <use matrix="0 1 -1 0 34 -7" name="Electrical Components/Inductor" pos="23 18"/>
+    </group>
 </symbol>
 
 <symbol name="Electrical Converter Blockdiagram/Motor AC">
-<group layer="alpha" matrix="1 0 0 1 -16 -16">
-<path matrix="1 0 0 1 0 6" stroke="black" fill="white">
-10 0 0 10 16 10 e
-</path>
-<text matrix="1 0 0 1 16.1 13.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
-<path matrix="1 0 0 1 -8 -1" stroke="black">
-20 12 m
-22 16
-24 12
-26 8
-28 12 c
-</path>
-</group>
+    <group layer="alpha" matrix="1 0 0 1 -16 -16">
+    <path matrix="1 0 0 1 0 6" stroke="black" fill="white">
+    10 0 0 10 16 10 e
+    </path>
+    <text matrix="1 0 0 1 16.1 13.9" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+    <path matrix="1 0 0 1 -8 -1" stroke="black">
+    20 12 m
+    22 16
+    24 12
+    26 8
+    28 12 c
+    </path>
+    </group>
+</symbol>
+
+<symbol name="Electrical Converter Blockdiagram/Motor DC">
+    <group layer="alpha">
+    <path matrix="1 0 0 1 -16 -10" stroke="black" fill="white">
+    10 0 0 10 16 10 e
+    </path>
+    <text matrix="1 0 0 1 0.1 -2.1" transformations="translations" pos="-8 8" stroke="black" type="minipage" width="16" height="6.346" depth="1.18" valign="top" size="large" style="center">\texttt{M}</text>
+    <path matrix="1.33333 0 0 1 0 -1" stroke="black">
+    -3 -3 m
+    3 -3 l
+    </path>
+    <path matrix="1 0 0 1 0 -2" stroke="black">
+    -4 -4 m
+    -2 -4 l
+    </path>
+    <path matrix="1 0 0 1 3 -2" stroke="black">
+    -4 -4 m
+    -2 -4 l
+    </path>
+    <path matrix="1 0 0 1 6 -2" stroke="black">
+    -4 -4 m
+    -2 -4 l
+    </path>
+    </group>
 </symbol>
 
 <symbol name="Electrical Converter Blockdiagram/Transformer">
